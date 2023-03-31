@@ -1,0 +1,1166 @@
+QUERY,LABEL
+Show me the age wise percentage of people who suffered a stroke,ANALYTICS
+What is the gender-wise distribution of stroke cases?,ANALYTICS
+What is the most common age range for stroke cases?,ANALYTICS
+How does the prevalence of stroke differ across different races and ethnicities?,ANALYTICS
+Is there a significant difference in the prevalence of stroke between men and women?,ANALYTICS
+What is the percentage of stroke cases in people over the age of 65?,ANALYTICS
+How does the incidence of stroke change with age?,ANALYTICS
+What is the prevalence of stroke in people under the age of 50?,ANALYTICS
+How does the prevalence of stroke vary by geographic region?,ANALYTICS
+What percentage of stroke cases occur in people under the age of 40?,ANALYTICS
+How does the incidence of stroke differ between urban and rural areas?,ANALYTICS
+What is the percentage of people who suffer from recurrent stroke?,ANALYTICS
+What is the average age of people who have had a stroke?,ANALYTICS
+What is the prevalence of stroke in people with a family history of stroke?,ANALYTICS
+What is the percentage of stroke cases in people with a history of smoking?,ANALYTICS
+How does the prevalence of stroke vary with socioeconomic status?,ANALYTICS
+What is the percentage of stroke cases in people with high blood pressure?,ANALYTICS
+How does the prevalence of stroke differ between people with and without diabetes?,ANALYTICS
+What is the percentage of stroke cases in people with high cholesterol?,ANALYTICS
+How does the prevalence of stroke vary by occupation?,ANALYTICS
+What is the percentage of stroke cases in people with a history of heart disease?,ANALYTICS
+How does the incidence of stroke change with the level of physical activity?,ANALYTICS
+What is the percentage of stroke cases in people with a history of alcohol abuse?,ANALYTICS
+How does the prevalence of stroke vary with the level of education?,ANALYTICS
+What is the percentage of stroke cases in people with sleep apnea?,ANALYTICS
+How does the prevalence of stroke differ between people who are overweight and those who are not?,ANALYTICS
+What is the percentage of stroke cases in people with a history of migraine headaches?,ANALYTICS
+How does the incidence of stroke change with the level of stress?,ANALYTICS
+What is the percentage of stroke cases in people with a history of drug abuse?,ANALYTICS
+How does the prevalence of stroke vary by marital status?,ANALYTICS
+What is the percentage of stroke cases in people with a history of depression?,ANALYTICS
+How does the incidence of stroke change with the level of physical fitness?,ANALYTICS
+What is the percentage of stroke cases in people with a history of anxiety disorders?,ANALYTICS
+How does the prevalence of stroke vary by smoking status?,ANALYTICS
+What is the percentage of stroke cases in people with a history of atrial fibrillation?,ANALYTICS
+How does the incidence of stroke change with the level of alcohol consumption?,ANALYTICS
+What is the percentage of stroke cases in people with a history of traumatic brain injury?,ANALYTICS
+How does the prevalence of stroke vary with the level of income?,ANALYTICS
+What is the percentage of stroke cases in people with a history of lupus?,ANALYTICS
+How does the incidence of stroke change with the level of air pollution?,ANALYTICS
+What is the percentage of stroke cases in people with a history of sickle cell disease?,ANALYTICS
+How does the prevalence of stroke vary with the level of access to healthcare?,ANALYTICS
+What is the percentage of stroke cases in people with a history of multiple sclerosis?,ANALYTICS
+How does the incidence of stroke change with the level of noise pollution?,ANALYTICS
+What is the percentage of stroke cases in people with a history of peripheral artery disease?,ANALYTICS
+How does the prevalence of stroke vary with the level of social support?,ANALYTICS
+What is the percentage of stroke cases in people with a history of lupus?,ANALYTICS
+How does the incidence of stroke change with the level of air pollution?,ANALYTICS
+Show me the age-wise percentage of people who suffer from diabetes.,ANALYTICS
+What is the gender-wise distribution of diabetes cases?,ANALYTICS
+What is the most common age range for diabetes cases?,ANALYTICS
+How does the prevalence of diabetes differ across different races and ethnicities?,ANALYTICS
+Is there a significant difference in the prevalence of diabetes between men and women?,ANALYTICS
+What is the percentage of diabetes cases in people over the age of 65?,ANALYTICS
+How does the incidence of diabetes change with age?,ANALYTICS
+What is the prevalence of diabetes in people under the age of 50?,ANALYTICS
+How does the prevalence of diabetes vary by geographic region?,ANALYTICS
+What percentage of diabetes cases occur in people under the age of 40?,ANALYTICS
+How does the incidence of diabetes differ between urban and rural areas?,ANALYTICS
+What is the percentage of people who suffer from recurrent diabetes?,ANALYTICS
+What is the average age of people who have diabetes?,ANALYTICS
+What is the prevalence of diabetes in people with a family history of diabetes?,ANALYTICS
+What is the percentage of diabetes cases in people with a history of smoking?,ANALYTICS
+How does the prevalence of diabetes vary with socioeconomic status?,ANALYTICS
+What is the percentage of diabetes cases in people with high blood pressure?,ANALYTICS
+How does the prevalence of diabetes differ between people with and without obesity?,ANALYTICS
+What is the percentage of diabetes cases in people with high cholesterol?,ANALYTICS
+How does the prevalence of diabetes vary by occupation?,ANALYTICS
+What is the percentage of diabetes cases in people with a history of heart disease?,ANALYTICS
+How does the incidence of diabetes change with the level of physical activity?,ANALYTICS
+What is the percentage of diabetes cases in people with a history of alcohol abuse?,ANALYTICS
+How does the prevalence of diabetes vary with the level of education?,ANALYTICS
+What is the percentage of diabetes cases in people with sleep apnea?,ANALYTICS
+How does the prevalence of diabetes differ between people who are overweight and those who are not?,ANALYTICS
+What is the percentage of diabetes cases in people with a history of kidney disease?,ANALYTICS
+How does the incidence of diabetes change with the level of stress?,ANALYTICS
+What is the percentage of diabetes cases in people with a history of drug abuse?,ANALYTICS
+How does the prevalence of diabetes vary by marital status?,ANALYTICS
+What is the percentage of diabetes cases in people with a history of depression?,ANALYTICS
+How does the incidence of diabetes change with the level of physical fitness?,ANALYTICS
+What is the percentage of diabetes cases in people with a history of anxiety disorders?,ANALYTICS
+How does the prevalence of diabetes vary by smoking status?,ANALYTICS
+What is the percentage of diabetes cases in people with a history of polycystic ovary syndrome (PCOS)?,ANALYTICS
+How does the incidence of diabetes change with the level of alcohol consumption?,ANALYTICS
+What is the percentage of diabetes cases in people with a history of thyroid disease?,ANALYTICS
+How does the prevalence of diabetes vary with the level of income?,ANALYTICS
+What is the percentage of diabetes cases in people with a history of gestational diabetes?,ANALYTICS
+How does the incidence of diabetes change with the level of air pollution?,ANALYTICS
+What is the percentage of diabetes cases in people with a history of liver disease?,ANALYTICS
+How does the prevalence of diabetes vary with the level of access to healthcare?,ANALYTICS
+What is the percentage of diabetes cases in people with a history of Cushing's syndrome?,ANALYTICS
+How does the incidence of diabetes change with the level of noise pollution?,ANALYTICS
+What is the percentage of diabetes cases in people with a history of adrenal gland disorders?,ANALYTICS
+How does the prevalence of diabetes vary with the level of social support?,ANALYTICS
+Show me the age-wise percentage of people who suffer from asthma.,ANALYTICS
+What is the gender-wise distribution of asthma cases?,ANALYTICS
+What is the most common age range for asthma cases?,ANALYTICS
+How does the prevalence of asthma differ across different races and ethnicities?,ANALYTICS
+Is there a significant difference in the prevalence of asthma between men and women?,ANALYTICS
+What is the percentage of asthma cases in people over the age of 65?,ANALYTICS
+How does the incidence of asthma change with age?,ANALYTICS
+What is the prevalence of asthma in people under the age of 50?,ANALYTICS
+How does the prevalence of asthma vary by geographic region?,ANALYTICS
+What percentage of asthma cases occur in people under the age of 40?,ANALYTICS
+How does the incidence of asthma differ between urban and rural areas?,ANALYTICS
+What is the percentage of people who suffer from recurrent asthma?,ANALYTICS
+What is the average age of people who have asthma?,ANALYTICS
+What is the prevalence of asthma in people with a family history of asthma?,ANALYTICS
+What is the percentage of asthma cases in people with a history of smoking?,ANALYTICS
+How does the prevalence of asthma vary with socioeconomic status?,ANALYTICS
+What is the percentage of asthma cases in people with a history of allergies?,ANALYTICS
+How does the prevalence of asthma differ between people with and without obesity?,ANALYTICS
+What is the percentage of asthma cases in people with a history of eczema?,ANALYTICS
+How does the prevalence of asthma vary by occupation?,ANALYTICS
+What is the percentage of asthma cases in people with a history of bronchitis?,ANALYTICS
+How does the incidence of asthma change with the level of physical activity?,ANALYTICS
+What is the percentage of asthma cases in people with a history of sinusitis?,ANALYTICS
+How does the prevalence of asthma vary with the level of education?,ANALYTICS
+What is the percentage of asthma cases in people with sleep apnea?,ANALYTICS
+How does the prevalence of asthma differ between people who are overweight and those who are not?,ANALYTICS
+What is the percentage of asthma cases in people with a history of acid reflux?,ANALYTICS
+How does the incidence of asthma change with the level of stress?,ANALYTICS
+What is the percentage of asthma cases in people with a history of pneumonia?,ANALYTICS
+How does the prevalence of asthma vary by marital status?,ANALYTICS
+What is the percentage of asthma cases in people with a history of depression?,ANALYTICS
+How does the incidence of asthma change with the level of physical fitness?,ANALYTICS
+What is the percentage of asthma cases in people with a history of anxiety disorders?,ANALYTICS
+How does the prevalence of asthma vary by smoking status?,ANALYTICS
+What is the percentage of asthma cases in people with a history of tuberculosis?,ANALYTICS
+How does the incidence of asthma change with the level of air pollution?,ANALYTICS
+What is the percentage of asthma cases in people with a history of COPD?,ANALYTICS
+How does the prevalence of asthma vary with the level of access to healthcare?,ANALYTICS
+What is the percentage of asthma cases in people with a history of cystic fibrosis?,ANALYTICS
+How does the incidence of asthma change with the level of mold exposure?,ANALYTICS
+Show me the age-wise percentage of people who suffer from chronic obstructive pulmonary disease (COPD).,ANALYTICS
+What is the gender-wise distribution of COPD cases?,ANALYTICS
+What is the most common age range for COPD cases?,ANALYTICS
+How does the prevalence of COPD differ across different races and ethnicities?,ANALYTICS
+Is there a significant difference in the prevalence of COPD between men and women?,ANALYTICS
+What is the percentage of COPD cases in people over the age of 65?,ANALYTICS
+Show me the age-wise percentage of people who suffer from diabetes.,ANALYTICS
+What is the gender-wise distribution of diabetes cases?,ANALYTICS
+What is the most common age range for diabetes cases?,ANALYTICS
+How does the prevalence of diabetes differ across different races and ethnicities?,ANALYTICS
+Is there a significant difference in the prevalence of diabetes between men and women?,ANALYTICS
+What is the percentage of diabetes cases in people over the age of 50?,ANALYTICS
+How does the incidence of diabetes change with age?,ANALYTICS
+What is the prevalence of diabetes in people under the age of 30?,ANALYTICS
+How does the prevalence of diabetes vary by geographic region?,ANALYTICS
+What percentage of diabetes cases occur in people under the age of 40?,ANALYTICS
+How does the incidence of diabetes differ between urban and rural areas?,ANALYTICS
+What is the percentage of people who suffer from Type 1 diabetes?,ANALYTICS
+What is the average age of people who have Type 2 diabetes?,ANALYTICS
+What is the prevalence of diabetes in people with a family history of diabetes?,ANALYTICS
+What is the percentage of diabetes cases in people with a history of smoking?,ANALYTICS
+How does the prevalence of diabetes vary with socioeconomic status?,ANALYTICS
+What is the percentage of diabetes cases in people with a history of high blood pressure?,ANALYTICS
+How does the prevalence of diabetes differ between people with and without obesity?,ANALYTICS
+What is the percentage of diabetes cases in people with a history of gestational diabetes?,ANALYTICS
+How does the prevalence of diabetes vary by occupation?,ANALYTICS
+What is the percentage of diabetes cases in people with a history of heart disease?,ANALYTICS
+How does the incidence of diabetes change with the level of physical activity?,ANALYTICS
+What is the percentage of diabetes cases in people with a history of stroke?,ANALYTICS
+How does the prevalence of diabetes vary with the level of education?,ANALYTICS
+What is the percentage of diabetes cases in people with a history of kidney disease?,ANALYTICS
+How does the prevalence of diabetes differ between people who are overweight and those who are not?,ANALYTICS
+What is the percentage of diabetes cases in people with a history of liver disease?,ANALYTICS
+How does the incidence of diabetes change with the level of stress?,ANALYTICS
+What is the percentage of diabetes cases in people with a history of sleep apnea?,ANALYTICS
+How does the prevalence of diabetes vary by marital status?,ANALYTICS
+What is the percentage of diabetes cases in people with a history of depression?,ANALYTICS
+How does the incidence of diabetes change with the level of physical fitness?,ANALYTICS
+What is the percentage of diabetes cases in people with a history of anxiety disorders?,ANALYTICS
+How does the prevalence of diabetes vary by smoking status?,ANALYTICS
+What is the percentage of diabetes cases in people with a history of thyroid disease?,ANALYTICS
+How does the incidence of diabetes change with the level of air pollution?,ANALYTICS
+What is the percentage of diabetes cases in people with a history of gallbladder disease?,ANALYTICS
+How does the prevalence of diabetes vary with the level of access to healthcare?,ANALYTICS
+What is the percentage of diabetes cases in people with a history of pancreatitis?,ANALYTICS
+How does the incidence of diabetes change with the level of alcohol consumption?,ANALYTICS
+Show me the age-wise percentage of people who suffer from hypertension.,ANALYTICS
+What is the gender-wise distribution of hypertension cases?,ANALYTICS
+What is the most common age range for hypertension cases?,ANALYTICS
+How does the prevalence of hypertension differ across different races and ethnicities?,ANALYTICS
+Is there a significant difference in the prevalence of hypertension between men and women?,ANALYTICS
+What is the percentage of hypertension cases in people over the age of 60?,ANALYTICS
+Show me the age-wise percentage of people who suffer from rheumatoid arthritis.,ANALYTICS
+What is the gender-wise distribution of rheumatoid arthritis cases?,ANALYTICS
+What is the most common age range for rheumatoid arthritis cases?,ANALYTICS
+How does the prevalence of rheumatoid arthritis differ across different races and ethnicities?,ANALYTICS
+Is there a significant difference in the prevalence of rheumatoid arthritis between men and women?,ANALYTICS
+What is the percentage of rheumatoid arthritis cases in people under the age of 30?,ANALYTICS
+How does the incidence of rheumatoid arthritis change with age?,ANALYTICS
+What is the prevalence of rheumatoid arthritis in people over the age of 65?,ANALYTICS
+How does the prevalence of rheumatoid arthritis vary by geographic region?,ANALYTICS
+What percentage of rheumatoid arthritis cases occur in people under the age of 50?,ANALYTICS
+How does the incidence of rheumatoid arthritis differ between urban and rural areas?,ANALYTICS
+What is the percentage of people who suffer from seropositive rheumatoid arthritis?,ANALYTICS
+What is the average age of people who have seronegative rheumatoid arthritis?,ANALYTICS
+What is the prevalence of rheumatoid arthritis in people with a family history of rheumatoid arthritis?,ANALYTICS
+What is the percentage of rheumatoid arthritis cases in people with a history of smoking?,ANALYTICS
+How does the prevalence of rheumatoid arthritis vary with socioeconomic status?,ANALYTICS
+What is the percentage of rheumatoid arthritis cases in people with a history of infections?,ANALYTICS
+How does the prevalence of rheumatoid arthritis differ between people with and without autoimmune diseases?,ANALYTICS
+What is the percentage of rheumatoid arthritis cases in people with a history of fibromyalgia?,ANALYTICS
+How does the prevalence of rheumatoid arthritis vary by occupation?,ANALYTICS
+What is the percentage of rheumatoid arthritis cases in people with a history of lupus?,ANALYTICS
+How does the incidence of rheumatoid arthritis change with the level of physical activity?,ANALYTICS
+What is the percentage of rheumatoid arthritis cases in people with a history of psoriasis?,ANALYTICS
+How does the prevalence of rheumatoid arthritis vary with the level of education?,ANALYTICS
+What is the percentage of rheumatoid arthritis cases in people with a history of gout?,ANALYTICS
+Show me the age-wise percentage of people who suffer from asthma.,ANALYTICS
+What is the gender-wise distribution of asthma cases?,ANALYTICS
+What is the most common age range for asthma cases?,ANALYTICS
+How does the prevalence of asthma differ across different races and ethnicities?,ANALYTICS
+Is there a significant difference in the prevalence of asthma between men and women?,ANALYTICS
+What is the percentage of asthma cases in people under the age of 18?,ANALYTICS
+How does the incidence of asthma change with age?,ANALYTICS
+What is the prevalence of asthma in people over the age of 50?,ANALYTICS
+How does the prevalence of asthma vary by geographic region?,ANALYTICS
+What percentage of asthma cases occur in people under the age of 5?,ANALYTICS
+How does the incidence of asthma differ between urban and rural areas?,ANALYTICS
+What is the percentage of people who suffer from allergic asthma?,ANALYTICS
+What is the average age of people who have non-allergic asthma?,ANALYTICS
+What is the prevalence of asthma in people with a family history of asthma?,ANALYTICS
+What is the percentage of asthma cases in people with a history of smoking?,ANALYTICS
+How does the prevalence of asthma vary with socioeconomic status?,ANALYTICS
+What is the percentage of asthma cases in people with a history of respiratory infections?,ANALYTICS
+How does the prevalence of asthma differ between people with and without allergies?,ANALYTICS
+What is the percentage of asthma cases in people with a history of sinusitis?,ANALYTICS
+How does the prevalence of asthma vary by occupation?,ANALYTICS
+What is the percentage of asthma cases in people with a history of eczema?,ANALYTICS
+How does the incidence of asthma change with the level of physical activity?,ANALYTICS
+What is the percentage of asthma cases in people with a history of bronchitis?,ANALYTICS
+How does the prevalence of asthma vary with the level of education?,ANALYTICS
+What is the percentage of asthma cases in people with a history of acid reflux?,ANALYTICS
+How does the prevalence of asthma differ between people who are overweight and those who are not?,ANALYTICS
+What is the percentage of asthma cases in people with a history of sleep apnea?,ANALYTICS
+How does the incidence of asthma change with the level of stress?,ANALYTICS
+What is the percentage of asthma cases in people with a history of anxiety disorders?,ANALYTICS
+How does the prevalence of asthma vary by smoking status?,ANALYTICS
+What is the percentage of asthma cases in people with a history of cystic fibrosis?,ANALYTICS
+How does the incidence of asthma change with the level of pollution?,ANALYTICS
+What is the percentage of asthma cases in people with a history of gastroesophageal reflux disease?,ANALYTICS
+How does the prevalence of asthma vary by marital status?,ANALYTICS
+What is the percentage of asthma cases in people with a history of tuberculosis?,ANALYTICS
+How does the incidence of asthma change with the level of physical fitness?,ANALYTICS
+What is the percentage of asthma cases in people with a history of pneumonia?,ANALYTICS
+How does the prevalence of asthma vary with the level of access to healthcare?,ANALYTICS
+What is the percentage of asthma cases in people with a history of lung cancer?,ANALYTICS
+How does the incidence of asthma change with the level of air conditioning use?,ANALYTICS
+Show me the age-wise percentage of people who suffer from COPD.,ANALYTICS
+What is the gender-wise distribution of COPD cases?,ANALYTICS
+What is the most common age range for COPD cases?,ANALYTICS
+"How many patients have a history of chronic diseases, such as diabetes or hypertension?",ANALYTICS
+What is the average age of patients with chronic diseases?,ANALYTICS
+What is the average cost per year for patients with chronic diseases?,ANALYTICS
+How many patients have been hospitalized in the last year?,ANALYTICS
+What is the average length of stay for patients who have been hospitalized?,ANALYTICS
+How many patients have undergone surgery in the last year?,ANALYTICS
+What is the most common type of surgery that patients undergo?,ANALYTICS
+How many patients have been diagnosed with cancer?,ANALYTICS
+What is the average cost of treatment for patients with cancer?,ANALYTICS
+How many patients have been diagnosed with mental health conditions?,ANALYTICS
+What is the average length of treatment for patients with mental health conditions?,ANALYTICS
+How many patients have had to be readmitted to the hospital within 30 days of their previous discharge?,ANALYTICS
+What is the most common reason for hospital readmissions?,ANALYTICS
+How many patients have had to visit the emergency room in the last year?,ANALYTICS
+What is the most common reason for emergency room visits?,ANALYTICS
+"How many patients have received preventative care, such as vaccinations or screenings, in the last year?",ANALYTICS
+What is the average cost of preventative care per patient?,ANALYTICS
+How many patients have had to be transferred to a different healthcare facility?,ANALYTICS
+What is the most common reason for healthcare facility transfers?,ANALYTICS
+How many patients have had to be placed in long-term care facilities?,ANALYTICS
+What is the average length of stay for patients in long-term care facilities?,ANALYTICS
+How many patients have had to be placed in hospice care?,ANALYTICS
+What is the average length of stay for patients in hospice care?,ANALYTICS
+How many patients have been diagnosed with rare diseases or conditions?,ANALYTICS
+What is the average cost of treatment for patients with rare diseases or conditions?,ANALYTICS
+How many patients have been diagnosed with autoimmune diseases?,ANALYTICS
+What is the average age of patients with autoimmune diseases?,ANALYTICS
+What is the average cost of treatment for patients with autoimmune diseases?,ANALYTICS
+How many patients have been diagnosed with rare forms of cancer?,ANALYTICS
+What is the average survival rate for patients with rare forms of cancer?,ANALYTICS
+How many patients have been diagnosed with genetic disorders?,ANALYTICS
+What is the average cost of treatment for patients with genetic disorders?,ANALYTICS
+How many patients have been diagnosed with infectious diseases?,ANALYTICS
+What is the most common infectious disease among patients?,ANALYTICS
+How many patients have been diagnosed with rare infectious diseases?,ANALYTICS
+What is the average cost of treatment for patients with rare infectious diseases?,ANALYTICS
+How many patients have been diagnosed with respiratory diseases?,ANALYTICS
+What is the most common respiratory disease among patients?,ANALYTICS
+How many patients have been diagnosed with rare respiratory diseases?,ANALYTICS
+What is the average cost of treatment for patients with rare respiratory diseases?,ANALYTICS
+How many patients have been diagnosed with cardiovascular diseases?,ANALYTICS
+What is the most common cardiovascular disease among patients?,ANALYTICS
+How many patients have been diagnosed with rare cardiovascular diseases?,ANALYTICS
+What is the average cost of treatment for patients with rare cardiovascular diseases?,ANALYTICS
+How many patients have been diagnosed with neurological diseases?,ANALYTICS
+What is the most common neurological disease among patients?,ANALYTICS
+How many patients have been diagnosed with rare neurological diseases?,ANALYTICS
+What is the average cost of treatment for patients with rare neurological diseases?,ANALYTICS
+How many patients have been diagnosed with musculoskeletal disorders?,ANALYTICS
+What is the most common musculoskeletal disorder among patients?,ANALYTICS
+How many patients have been diagnosed with rare musculoskeletal disorders?,ANALYTICS
+What is the average cost of treatment for patients with rare musculoskeletal disorders?,ANALYTICS
+How many patients have been diagnosed with skin diseases?,ANALYTICS
+What is the most common skin disease among patients?,ANALYTICS
+How many patients have been diagnosed with rare skin diseases?,ANALYTICS
+What is the average cost of treatment for patients with rare skin diseases?,ANALYTICS
+How many patients have been diagnosed with digestive disorders?,ANALYTICS
+What is the most common digestive disorder among patients?,ANALYTICS
+How many patients have been diagnosed with rare digestive disorders?,ANALYTICS
+What is the average cost of treatment for patients with rare digestive disorders?,ANALYTICS
+How many patients have been diagnosed with kidney diseases?,ANALYTICS
+What is the most common kidney disease among patients?,ANALYTICS
+How many patients have been diagnosed with rare kidney diseases?,ANALYTICS
+What is the average cost of treatment for patients with rare kidney diseases?,ANALYTICS
+How many patients have been diagnosed with eye diseases?,ANALYTICS
+What is the most common eye disease among patients?,ANALYTICS
+How many patients have been diagnosed with rare eye diseases?,ANALYTICS
+What is the average cost of treatment for patients with rare eye diseases?,ANALYTICS
+How many patients have been diagnosed with hearing disorders?,ANALYTICS
+What is the most common hearing disorder among patients?,ANALYTICS
+How many patients have been diagnosed with rare hearing disorders?,ANALYTICS
+What is the average cost of treatment for patients with rare hearing disorders?,ANALYTICS
+How many patients have been diagnosed with rare endocrine disorders?,ANALYTICS
+What is the most common endocrine disorder among patients?,ANALYTICS
+What is the average cost of treatment for patients with rare endocrine disorders?,ANALYTICS
+Does the patient with id 123 have hypertension,INDIVIDUAL
+Does the patient with id 234 have diabetes?,INDIVIDUAL
+Does the patient with id 345 have high cholesterol?,INDIVIDUAL
+Does the patient with id 456 have a history of stroke?,INDIVIDUAL
+Does the patient with id 567 have asthma?,INDIVIDUAL
+Does the patient with id 678 have chronic obstructive pulmonary disease (COPD)?,INDIVIDUAL
+Does the patient with id 789 have a history of heart attack?,INDIVIDUAL
+Does the patient with id 890 have liver disease?,INDIVIDUAL
+Does the patient with id 901 have kidney disease?,INDIVIDUAL
+Does the patient with id 112 have cancer?,INDIVIDUAL
+Does the patient with id 223 have a thyroid disorder?,INDIVIDUAL
+Does the patient with id 334 have an autoimmune disease?,INDIVIDUAL
+Does the patient with id 445 have a mental health condition?,INDIVIDUAL
+Does the patient with id 556 have an eating disorder?,INDIVIDUAL
+Does the patient with id 667 have a history of substance abuse?,INDIVIDUAL
+Does the patient with id 778 have HIV?,INDIVIDUAL
+Does the patient with id 889 have multiple sclerosis?,INDIVIDUAL
+Does the patient with id 900 have Parkinson's disease?,INDIVIDUAL
+Does the patient with id 111 have Alzheimer's disease?,INDIVIDUAL
+Does the patient with id 222 have a rare genetic disorder?,INDIVIDUAL
+Does the patient with id 333 have a hearing impairment?,INDIVIDUAL
+Does the patient with id 444 have a vision impairment?,INDIVIDUAL
+Does the patient with id 555 have a rare skin disorder?,INDIVIDUAL
+Does the patient with id 666 have a rare respiratory disorder?,INDIVIDUAL
+Does the patient with id 777 have a rare autoimmune disorder?,INDIVIDUAL
+Does the patient with id 888 have a rare neurological disorder?,INDIVIDUAL
+Does the patient with id 999 have a rare cardiovascular disorder?,INDIVIDUAL
+Does the patient with id 110 have a rare kidney disorder?,INDIVIDUAL
+Does the patient with id 221 have a rare liver disorder?,INDIVIDUAL
+Does the patient with id 332 have a rare gastrointestinal disorder?,INDIVIDUAL
+Does the patient with id 443 have a rare endocrine disorder?,INDIVIDUAL
+Does the patient with id 554 have a rare metabolic disorder?,INDIVIDUAL
+Does the patient with id 665 have a rare blood disorder?,INDIVIDUAL
+Does the patient with id 776 have a rare immune system disorder?,INDIVIDUAL
+Does the patient with id 887 have a rare muscular disorder?,INDIVIDUAL
+Does the patient with id 998 have a rare skeletal disorder?,INDIVIDUAL
+Does the patient with id 109 have a rare reproductive disorder?,INDIVIDUAL
+Does the patient with id 220 have a rare congenital disorder?,INDIVIDUAL
+Does the patient with id 331 have a rare infectious disease?,INDIVIDUAL
+Does the patient with id 442 have a rare viral infection?,INDIVIDUAL
+Does the patient with id 553 have a rare bacterial infection?,INDIVIDUAL
+Does the patient with id 664 have a rare fungal infection?,INDIVIDUAL
+Does the patient with id 775 have a rare parasitic infection?,INDIVIDUAL
+Does the patient with id 886 have a rare sexually transmitted infection?,INDIVIDUAL
+Does the patient with id 997 have a rare zoonotic infection?,INDIVIDUAL
+Does the patient with id 108 have a rare tick-borne infection?,INDIVIDUAL
+Does the patient with id 219 have a rare mosquito-borne infection?,INDIVIDUAL
+Does the patient with id 330 have a rare foodborne infection?,INDIVIDUAL
+Does the patient with id 441 have a rare waterborne infection?,INDIVIDUAL
+Does the patient with id 552 have a rare airborne infection?,INDIVIDUAL
+Does the patient with id 663 have a rare hospital-acquired infection?,INDIVIDUAL
+What is the current medication regimen for patient with id 123?,INDIVIDUAL
+When was the last time patient with id 234 had a physical exam?,INDIVIDUAL
+What is the blood pressure of patient with id 345?,INDIVIDUAL
+Has patient with id 456 experienced any side effects from their current medication?,INDIVIDUAL
+When was the last time patient with id 567 had a blood test?,INDIVIDUAL
+What is the current heart rate of patient with id 678?,INDIVIDUAL
+When was the last time patient with id 789 had a mammogram?,INDIVIDUAL
+What is the current weight of patient with id 890?,INDIVIDUAL
+Has patient with id 901 experienced any symptoms of depression?,INDIVIDUAL
+When was the last time patient with id 112 had a colonoscopy?,INDIVIDUAL
+What is the current blood sugar level of patient with id 223?,INDIVIDUAL
+Has patient with id 334 experienced any symptoms of anxiety?,INDIVIDUAL
+When was the last time patient with id 445 had a pap smear?,INDIVIDUAL
+What is the current cholesterol level of patient with id 556?,INDIVIDUAL
+Has patient with id 667 experienced any symptoms of substance abuse?,INDIVIDUAL
+When was the last time patient with id 778 had a prostate exam?,INDIVIDUAL
+What is the current oxygen saturation level of patient with id 889?,INDIVIDUAL
+Has patient with id 900 experienced any symptoms of Parkinson's disease?,INDIVIDUAL
+When was the last time patient with id 111 had a bone density test?,INDIVIDUAL
+What is the current respiratory rate of patient with id 222?,INDIVIDUAL
+Has patient with id 333 experienced any symptoms of a thyroid disorder?,INDIVIDUAL
+When was the last time patient with id 444 had an eye exam?,INDIVIDUAL
+What is the current liver function of patient with id 555?,INDIVIDUAL
+Has patient with id 666 experienced any symptoms of a respiratory disorder?,INDIVIDUAL
+When was the last time patient with id 777 had a mammogram?,INDIVIDUAL
+What is the current kidney function of patient with id 888?,INDIVIDUAL
+Has patient with id 999 experienced any symptoms of a cardiovascular disorder?,INDIVIDUAL
+When was the last time patient with id 110 had a prostate exam?,INDIVIDUAL
+What is the current immune system function of patient with id 221?,INDIVIDUAL
+Has patient with id 332 experienced any symptoms of a gastrointestinal disorder?,INDIVIDUAL
+When was the last time patient with id 443 had a liver function test?,INDIVIDUAL
+What is the current metabolic rate of patient with id 554?,INDIVIDUAL
+Has patient with id 665 experienced any symptoms of a blood disorder?,INDIVIDUAL
+When was the last time patient with id 776 had a skin exam?,INDIVIDUAL
+What is the current bone density of patient with id 887?,INDIVIDUAL
+Has patient with id 998 experienced any symptoms of a skeletal disorder?,INDIVIDUAL
+When was the last time patient with id 109 had a pelvic exam?,INDIVIDUAL
+What is the current reproductive system function of patient with id 220?,INDIVIDUAL
+Has patient with id 331 experienced any symptoms of an autoimmune disorder?,INDIVIDUAL
+When was the last time patient with id 442 had a thyroid function test?,INDIVIDUAL
+What is the current blood count of patient with id 553?,INDIVIDUAL
+Has patient with id 664 experienced any symptoms of a viral infection?,INDIVIDUAL
+When was the last time patient with id 775 had a liver ultrasound?,INDIVIDUAL
+What is the current kidney function of patient with id 886?,INDIVIDUAL
+Has patient with id 997 experienced any symptoms of a bacterial infection?,INDIVIDUAL
+When was the last time patient with id 108 had a tick-borne disease test?,INDIVIDUAL
+When was the last time patient with id 111 had a chest x-ray?,INDIVIDUAL
+Has patient with id 222 experienced any symptoms of sleep apnea?,INDIVIDUAL
+What is the current BMI of patient with id 333?,INDIVIDUAL
+When was the last time patient with id 444 had a mammogram?,INDIVIDUAL
+What is the current blood calcium level of patient with id 555?,INDIVIDUAL
+Has patient with id 666 experienced any symptoms of anemia?,INDIVIDUAL
+When was the last time patient with id 777 had a dental exam?,INDIVIDUAL
+What is the current liver enzyme level of patient with id 888?,INDIVIDUAL
+Has patient with id 999 experienced any symptoms of a neurological disorder?,INDIVIDUAL
+When was the last time patient with id 110 had a skin biopsy?,INDIVIDUAL
+What is the current lung function of patient with id 221?,INDIVIDUAL
+Has patient with id 332 experienced any symptoms of a psychiatric disorder?,INDIVIDUAL
+When was the last time patient with id 443 had a hearing test?,INDIVIDUAL
+What is the current blood potassium level of patient with id 554?,INDIVIDUAL
+Has patient with id 665 experienced any symptoms of a renal disorder?,INDIVIDUAL
+When was the last time patient with id 776 had a prostate exam?,INDIVIDUAL
+What is the current heart function of patient with id 887?,INDIVIDUAL
+Has patient with id 998 experienced any symptoms of a joint disorder?,INDIVIDUAL
+When was the last time patient with id 109 had a liver function test?,INDIVIDUAL
+What is the current blood sodium level of patient with id 220?,INDIVIDUAL
+Has patient with id 331 experienced any symptoms of a pancreatic disorder?,INDIVIDUAL
+When was the last time patient with id 442 had a lipid panel test?,INDIVIDUAL
+What is the current thyroid hormone level of patient with id 553?,INDIVIDUAL
+Has patient with id 664 experienced any symptoms of a lymphatic disorder?,INDIVIDUAL
+When was the last time patient with id 775 had a breast ultrasound?,INDIVIDUAL
+What is the current kidney filtration rate of patient with id 886?,INDIVIDUAL
+Has patient with id 997 experienced any symptoms of a parasitic infection?,INDIVIDUAL
+When was the last time patient with id 108 had a prostate-specific antigen test?,INDIVIDUAL
+What is the current white blood cell count of patient with id 219?,INDIVIDUAL
+Has patient with id 330 experienced any symptoms of a bone disorder?,INDIVIDUAL
+When was the last time patient with id 441 had a blood gas test?,INDIVIDUAL
+What is the current creatinine level of patient with id 552?,INDIVIDUAL
+Has patient with id 663 experienced any symptoms of a musculoskeletal disorder?,INDIVIDUAL
+When was the last time patient with id 774 had a pulmonary function test?,INDIVIDUAL
+What is the current glucose level of patient with id 885?,INDIVIDUAL
+Has patient with id 996 experienced any symptoms of a fungal infection?,INDIVIDUAL
+When was the last time patient with id 107 had a colonoscopy?,INDIVIDUAL
+What is the current platelet count of patient with id 218?,INDIVIDUAL
+Has patient with id 329 experienced any symptoms of a connective tissue disorder?,INDIVIDUAL
+When was the last time patient with id 440 had a thyroid ultrasound?,INDIVIDUAL
+What is the current liver size of patient with id 551?,INDIVIDUAL
+Has patient with id 662 experienced any symptoms of a metabolic disorder?,INDIVIDUAL
+When was the last time patient with id 773 had an EKG?,INDIVIDUAL
+What is the current bone mineral density of patient with id 884?,INDIVIDUAL
+Has patient with id 995 experienced any symptoms of a parasitic infection?,INDIVIDUAL
+Has patient with id 111 experienced any symptoms of a urinary tract infection?,INDIVIDUAL
+When was the last time patient with id 222 had an eye exam?,INDIVIDUAL
+What is the current blood glucose level of patient with id 333?,INDIVIDUAL
+Has patient with id 444 experienced any symptoms of a gastrointestinal disorder?,INDIVIDUAL
+When was the last time patient with id 555 had a bone scan?,INDIVIDUAL
+What is the current thyroid-stimulating hormone level of patient with id 666?,INDIVIDUAL
+Has patient with id 777 experienced any symptoms of a skin disorder?,INDIVIDUAL
+When was the last time patient with id 888 had a Pap smear?,INDIVIDUAL
+What is the current vitamin D level of patient with id 999?,INDIVIDUAL
+Has patient with id 110 experienced any symptoms of a respiratory disorder?,INDIVIDUAL
+When was the last time patient with id 221 had a glucose tolerance test?,INDIVIDUAL
+What is the current red blood cell count of patient with id 332?,INDIVIDUAL
+Has patient with id 443 experienced any symptoms of an allergic reaction?,INDIVIDUAL
+When was the last time patient with id 554 had a bone marrow biopsy?,INDIVIDUAL
+What is the current calcium level of patient with id 665?,INDIVIDUAL
+Has patient with id 776 experienced any symptoms of a blood disorder?,INDIVIDUAL
+When was the last time patient with id 887 had a retinal exam?,INDIVIDUAL
+What is the current pulmonary function of patient with id 998?,INDIVIDUAL
+Has patient with id 109 experienced any symptoms of a liver disorder?,INDIVIDUAL
+When was the last time patient with id 220 had a cardiac stress test?,INDIVIDUAL
+What is the current iron level of patient with id 331?,INDIVIDUAL
+Has patient with id 442 experienced any symptoms of a viral infection?,INDIVIDUAL
+When was the last time patient with id 553 had a thyroid function test?,INDIVIDUAL
+What is the current vitamin B12 level of patient with id 664?,INDIVIDUAL
+Has patient with id 775 experienced any symptoms of a cardiovascular disorder?,INDIVIDUAL
+When was the last time patient with id 886 had a renal ultrasound?,INDIVIDUAL
+What is the current blood urea nitrogen level of patient with id 997?,INDIVIDUAL
+Has patient with id 108 experienced any symptoms of a prostate disorder?,INDIVIDUAL
+When was the last time patient with id 219 had a blood transfusion?,INDIVIDUAL
+What is the current pulmonary artery pressure of patient with id 330?,INDIVIDUAL
+Has patient with id 441 experienced any symptoms of a liver disorder?,INDIVIDUAL
+When was the last time patient with id 552 had a chest CT scan?,INDIVIDUAL
+What is the current serum protein level of patient with id 663?,INDIVIDUAL
+Has patient with id 774 experienced any symptoms of a neurological disorder?,INDIVIDUAL
+When was the last time patient with id 885 had an echocardiogram?,INDIVIDUAL
+What is the current blood cholesterol level of patient with id 996?,INDIVIDUAL
+Has patient with id 107 experienced any symptoms of a gastrointestinal disorder?,INDIVIDUAL
+When was the last time patient with id 218 had a thyroid biopsy?,INDIVIDUAL
+What is the current uric acid level of patient with id 329?,INDIVIDUAL
+Has patient with id 440 experienced any symptoms of a renal disorder?,INDIVIDUAL
+When was the last time patient with id 551 had a liver ultrasound?,INDIVIDUAL
+What is the current white blood cell differential of patient with id 662?,INDIVIDUAL
+Has patient with id 773 experienced any symptoms of a respiratory disorder?,INDIVIDUAL
+When was the last time patient with id 884 had a bone density test?,INDIVIDUAL
+Has patient with id 1000 experienced any symptoms of a dermatological disorder?,INDIVIDUAL
+When was the last time patient with id 1111 had a mammogram?,INDIVIDUAL
+What is the current platelet count of patient with id 1222?,INDIVIDUAL
+Has patient with id 1333 experienced any symptoms of a neurological disorder?,INDIVIDUAL
+When was the last time patient with id 1444 had a liver function test?,INDIVIDUAL
+What is the current creatinine level of patient with id 1555?,INDIVIDUAL
+Has patient with id 1666 experienced any symptoms of a musculoskeletal disorder?,INDIVIDUAL
+When was the last time patient with id 1777 had a prostate-specific antigen test?,INDIVIDUAL
+What is the current hemoglobin A1C level of patient with id 1888?,INDIVIDUAL
+Has patient with id 1999 experienced any symptoms of a gastrointestinal disorder?,INDIVIDUAL
+When was the last time patient with id 2100 had a chest X-ray?,INDIVIDUAL
+What is the current sodium level of patient with id 2211?,INDIVIDUAL
+Has patient with id 2322 experienced any symptoms of a cardiovascular disorder?,INDIVIDUAL
+When was the last time patient with id 2433 had a CT scan of the abdomen?,INDIVIDUAL
+What is the current eGFR level of patient with id 2544?,INDIVIDUAL
+Has patient with id 2655 experienced any symptoms of a respiratory disorder?,INDIVIDUAL
+When was the last time patient with id 2766 had a colonoscopy?,INDIVIDUAL
+What is the current PSA level of patient with id 2877?,INDIVIDUAL
+Has patient with id 2988 experienced any symptoms of a urinary tract disorder?,INDIVIDUAL
+When was the last time patient with id 3099 had a lipid panel?,INDIVIDUAL
+What is the current potassium level of patient with id 3210?,INDIVIDUAL
+Has patient with id 3321 experienced any symptoms of a neurological disorder?,INDIVIDUAL
+When was the last time patient with id 3432 had a mammogram?,INDIVIDUAL
+What is the current estimated glomerular filtration rate of patient with id 3543?,INDIVIDUAL
+Has patient with id 3654 experienced any symptoms of a gastrointestinal disorder?,INDIVIDUAL
+When was the last time patient with id 3765 had a bone density test?,INDIVIDUAL
+What is the current magnesium level of patient with id 3876?,INDIVIDUAL
+Has patient with id 3987 experienced any symptoms of a musculoskeletal disorder?,INDIVIDUAL
+When was the last time patient with id 4098 had a pelvic exam?,INDIVIDUAL
+What is the current thyroid-stimulating hormone level of patient with id 4209?,INDIVIDUAL
+Has patient with id 4320 experienced any symptoms of a respiratory disorder?,INDIVIDUAL
+When was the last time patient with id 4431 had a liver function test?,INDIVIDUAL
+What is the current alkaline phosphatase level of patient with id 4542?,INDIVIDUAL
+Has patient with id 4653 experienced any symptoms of a dermatological disorder?,INDIVIDUAL
+When was the last time patient with id 4764 had a prostate-specific antigen test?,INDIVIDUAL
+What is the current glucose level of patient with id 4875?,INDIVIDUAL
+Has patient with id 4986 experienced any symptoms of a cardiovascular disorder?,INDIVIDUAL
+When was the last time patient with id 5097 had a Pap smear?,INDIVIDUAL
+What is the current calcium level of patient with id 5208?,INDIVIDUAL
+Has patient with id 5319 experienced any symptoms of a urinary tract disorder?,INDIVIDUAL
+When was the last time patient with id 5430 had a lipid panel?,INDIVIDUAL
+What is the medical history of the patient with ID 1001?,INDIVIDUAL
+When was the last time that the patient with ID 1112 underwent a CT scan?,INDIVIDUAL
+What is the current blood pressure reading for the patient with ID 1223?,INDIVIDUAL
+How many surgeries has the patient with ID 1334 undergone in the past year?,INDIVIDUAL
+What is the estimated recovery time for the patient with ID 1445 following their recent surgery?,INDIVIDUAL
+Has the patient with ID 1556 been diagnosed with any chronic conditions?,INDIVIDUAL
+What is the likelihood of complications for the patient with ID 1667 undergoing a particular surgical procedure?,INDIVIDUAL
+How many times has the patient with ID 1778 been hospitalized in the past six months?,INDIVIDUAL
+What medications is the patient with ID 1889 currently taking?,INDIVIDUAL
+What is the family medical history of the patient with ID 1990?,INDIVIDUAL
+Has the patient with ID 2001 experienced any adverse reactions to medications in the past?,INDIVIDUAL
+What is the patient with ID 2112's current body mass index (BMI)?,INDIVIDUAL
+How many times has the patient with ID 2223 visited the emergency room in the past year?,INDIVIDUAL
+What is the current status of the patient with ID 2334's wound healing?,INDIVIDUAL
+What is the average pain level reported by the patient with ID 2445 in the past week?,INDIVIDUAL
+What is the patient with ID 2556's current heart rate?,INDIVIDUAL
+What is the patient with ID 2667's current respiratory rate?,INDIVIDUAL
+How many prescription refills does the patient with ID 2778 have remaining?,INDIVIDUAL
+Has the patient with ID 2889 received any vaccinations in the past six months?,INDIVIDUAL
+What is the current oxygen saturation level of the patient with ID 2990?,INDIVIDUAL
+How many visits has the patient with ID 3001 made to a specialist in the past year?,INDIVIDUAL
+What is the patient with ID 3112's current blood sugar level?,INDIVIDUAL
+What is the patient with ID 3223's current body temperature?,INDIVIDUAL
+What is the patient with ID 3334's current level of physical activity?,INDIVIDUAL
+How many days of sick leave has the patient with ID 3445 taken in the past month?,INDIVIDUAL
+What is the patient with ID 3556's current level of cognitive function?,INDIVIDUAL
+What is the patient with ID 3667's current level of emotional well-being?,INDIVIDUAL
+How many hours of sleep does the patient with ID 3778 typically get per night?,INDIVIDUAL
+Has the patient with ID 3889 experienced any recent changes in vision?,INDIVIDUAL
+What is the patient with ID 3990's current level of hearing?,INDIVIDUAL
+What is the patient with ID 4001's current level of mobility?,INDIVIDUAL
+How many follow-up appointments has the patient with ID 4112 missed in the past six months?,INDIVIDUAL
+What is the patient with ID 4223's current level of social support?,INDIVIDUAL
+What is the patient with ID 4334's current level of nutrition?,INDIVIDUAL
+How many falls has the patient with ID 4445 experienced in the past month?,INDIVIDUAL
+What is the patient with ID 4556's current level of medication adherence?,INDIVIDUAL
+How many miles does the patient with ID 4667 typically walk per day?,INDIVIDUAL
+What is the patient with ID 4778's current level of stress?,INDIVIDUAL
+What is the patient with ID 4889's current level of alcohol consumption?,INDIVIDUAL
+How many cups of caffeine does the patient with ID 4990 consume per day?,INDIVIDUAL
+What is the predicted risk of developing hypertension for the patient with ID 1001 based on their medical history?,PREDICTION
+What is the predicted probability of hospital readmission for the patient with ID 1112 within the next 30 days?,PREDICTION
+What is the predicted risk of a heart attack for the patient with ID 1223 based on their demographic and clinical data?,PREDICTION
+What is the predicted risk of developing a chronic condition for the patient with ID 1334 based on their family history and lifestyle factors?,PREDICTION
+What is the predicted mortality risk for the patient with ID 1445 based on their clinical data and comorbidities?,PREDICTION
+What is the predicted likelihood of complications for the patient with ID 1556 undergoing a particular medical procedure based on their medical history and comorbidities?,PREDICTION
+What is the predicted risk of developing cancer for the patient with ID 1667 based on their genetic predisposition and lifestyle factors?,PREDICTION
+What is the predicted risk of developing a mental health condition for the patient with ID 1778 based on their medical history and lifestyle factors?,PREDICTION
+What is the predicted length of hospital stay for the patient with ID 1889 based on their clinical data and comorbidities?,PREDICTION
+What is the predicted risk of readmission to the hospital within the next six months for the patient with ID 1990 based on their medical history and current medication regimen?,PREDICTION
+What is the predicted risk of stroke for the patient with ID 2001 based on their demographic and clinical data?,PREDICTION
+What is the predicted likelihood of medication non-adherence for the patient with ID 2112 based on their medical history and lifestyle factors?,PREDICTION
+What is the predicted risk of developing a respiratory condition for the patient with ID 2223 based on their medical history and environmental factors?,PREDICTION
+What is the predicted risk of developing a gastrointestinal condition for the patient with ID 2334 based on their medical history and dietary habits?,PREDICTION
+What is the predicted risk of developing a musculoskeletal condition for the patient with ID 2445 based on their medical history and level of physical activity?,PREDICTION
+What is the predicted risk of developing a skin condition for the patient with ID 2556 based on their medical history and environmental exposure?,PREDICTION
+What is the predicted risk of developing a neurological condition for the patient with ID 2667 based on their medical history and genetic predisposition?,PREDICTION
+What is the predicted risk of medication interactions for the patient with ID 2778 based on their medication regimen and medical history?,PREDICTION
+What is the predicted risk of developing an infectious disease for the patient with ID 2889 based on their medical history and vaccination status?,PREDICTION
+What is the predicted risk of developing an endocrine condition for the patient with ID 2990 based on their medical history and hormonal profile?,PREDICTION
+What is the predicted risk of developing a cardiovascular condition for the patient with ID 3001 based on their medical history and lifestyle factors?,PREDICTION
+What is the predicted risk of developing a renal condition for the patient with ID 3112 based on their medical history and medication regimen?,PREDICTION
+What is the predicted risk of developing a hematological condition for the patient with ID 3223 based on their medical history and genetic predisposition?,PREDICTION
+What is the predicted risk of developing a reproductive condition for the patient with ID 3334 based on their medical history and lifestyle factors?,PREDICTION
+What is the predicted risk of developing a psychiatric condition for the patient with ID 3445 based on their medical history and level of social support?,PREDICTION
+What is the predicted risk of developing a dental condition for the patient with ID 3556 based on their medical history,PREDICTION
+Estimate the likelihood of a patient developing diabetes based on their medical history.,ANALYTICS
+Determine the probability of a patient having a heart attack within the next 5 years.,ANALYTICS
+Calculate the chance of a patient developing a particular type of cancer based on their family history and lifestyle factors.,ANALYTICS
+Evaluate the risk of a patient experiencing complications during a surgery.,ANALYTICS
+"Assess the probability of a patient developing Alzheimer's disease based on their age, lifestyle, and genetic factors.",ANALYTICS
+Compute the likelihood of a patient developing a drug-resistant infection based on their medical history.,ANALYTICS
+Estimate the probability of a patient developing osteoporosis based on their lifestyle factors and bone density.,ANALYTICS
+Determine the risk of a patient developing a stroke based on their medical history and lifestyle factors.,ANALYTICS
+Evaluate the likelihood of a patient developing depression based on their medical history and social environment.,ANALYTICS
+Assess the probability of a patient experiencing a fall based on their age and medical conditions.,ANALYTICS
+Calculate the chance of a patient developing chronic kidney disease based on their medical history and lifestyle factors.,ANALYTICS
+Evaluate the risk of a patient developing a pulmonary embolism based on their medical history and lifestyle factors.,ANALYTICS
+Estimate the probability of a patient developing a severe allergic reaction based on their medical history and allergy tests.,ANALYTICS
+Determine the likelihood of a patient developing an autoimmune disease based on their family history and genetic factors.,ANALYTICS
+Assess the risk of a patient developing a blood clot based on their medical history and lifestyle factors.,ANALYTICS
+Compute the probability of a patient experiencing a heart failure based on their medical history and lifestyle factors.,ANALYTICS
+Evaluate the chance of a patient developing a sexually transmitted infection based on their sexual behavior and medical history.,ANALYTICS
+Calculate the likelihood of a patient developing a severe asthma attack based on their medical history and lung function.,ANALYTICS
+Determine the risk of a patient developing a urinary tract infection based on their medical history and lifestyle factors.,ANALYTICS
+Assess the probability of a patient experiencing a traumatic brain injury based on their medical history and lifestyle factors.,ANALYTICS
+Estimate the chance of a patient developing a rare genetic disorder based on their family history and genetic testing.,ANALYTICS
+Evaluate the likelihood of a patient developing a severe allergic reaction to medication based on their medical history and allergy tests.,ANALYTICS
+Determine the probability of a patient experiencing a seizure based on their medical history and lifestyle factors.,ANALYTICS
+Assess the risk of a patient developing a liver disease based on their medical history and lifestyle factors.,ANALYTICS
+Calculate the likelihood of a patient developing a gastrointestinal disorder based on their medical history and lifestyle factors.,ANALYTICS
+Evaluate the probability of a patient developing a rare form of cancer based on their medical history and genetic factors.,ANALYTICS
+Estimate the risk of a patient developing a rare infectious disease based on their travel history and lifestyle factors.,ANALYTICS
+Determine the chance of a patient developing a life-threatening allergic reaction based on their medical history and allergy tests.,ANALYTICS
+Assess the likelihood of a patient developing a blood disorder based on their medical history and lifestyle factors.,ANALYTICS
+Compute the probability of a patient experiencing a serious adverse reaction to medication based on their medical history and drug interactions.,ANALYTICS
+Evaluate the risk of a patient developing a bone fracture based on their medical history and lifestyle factors.,ANALYTICS
+Estimate the probability of a patient developing a severe infection based on their medical history and lifestyle factors.,ANALYTICS
+Determine the likelihood of a patient developing a rare neurological disorder based on their medical history and genetic factors.,ANALYTICS
+Assess the chance of a patient developing a severe skin condition based on their medical history and lifestyle factors.,ANALYTICS
+Calculate the risk of a patient developing a rare autoimmune disorder based on their medical history and genetic factors.,ANALYTICS
+Evaluate the probability of a patient developing a severe respiratory illness based on their medical history and lifestyle factors.,ANALYTICS
+Will the patient with ID 867 have a stroke in the next few month?,PREDICTION
+Can we anticipate a heart attack in the next 6 months for patient ID 374?,PREDICTION
+Is it possible for patient ID 991 to experience a recurrence of cancer in the near future?,PREDICTION
+Are there any indicators that suggest patient ID 532 may have a flare-up of their autoimmune disease?,PREDICTION
+Is patient ID 689 at risk of developing type 2 diabetes in the next year?,PREDICTION
+What is the likelihood of patient ID 123 experiencing a relapse of their mental health condition in the coming months?,PREDICTION
+Is it probable that patient ID 456 will have a heart bypass surgery in the near future?,PREDICTION
+Can we anticipate any worsening of patient ID 777's chronic respiratory disease in the next few months?,PREDICTION
+Is patient ID 888 at risk of developing a new autoimmune condition in the near future?,PREDICTION
+What is the possibility of patient ID 222 experiencing a stroke in the coming year?,PREDICTION
+Can we predict if patient ID 333 will require surgery for their orthopedic condition in the next 6 months?,PREDICTION
+What is the potential for patient ID 444 to experience a recurrence of their gastrointestinal disorder in the near future?,PREDICTION
+Is it likely for patient ID 555 to have a heart attack within the next year?,PREDICTION
+Can we anticipate a relapse of cancer in patient ID 666 in the next few months?,PREDICTION
+Is patient ID 777 at risk of developing a new neurological condition in the near future?,PREDICTION
+What is the possibility of patient ID 888 experiencing a relapse of their psychiatric condition in the coming year?,PREDICTION
+Can we predict if patient ID 999 will require an organ transplant in the near future?,PREDICTION
+Is it probable that patient ID 111 will have a recurrence of their autoimmune condition in the coming months?,PREDICTION
+Can we anticipate any worsening of patient ID 222's chronic pain condition in the next few months?,PREDICTION
+Is patient ID 333 at risk of developing a new cardiovascular disease in the near future?,PREDICTION
+What is the likelihood of patient ID 444 experiencing a relapse of their respiratory condition in the coming year?,PREDICTION
+Can we predict if patient ID 555 will require chemotherapy for their cancer in the near future?,PREDICTION
+Is it possible for patient ID 666 to experience a relapse of their psychiatric condition in the coming months?,PREDICTION
+What is the potential for patient ID 777 to have a surgical procedure for their gastrointestinal condition in the near future?,PREDICTION
+Is patient ID 888 at risk of developing a new allergic condition in the next year?,PREDICTION
+Can we anticipate a worsening of patient ID 999's chronic kidney disease in the next few months?,PREDICTION
+What is the possibility of patient ID 111 experiencing a stroke in the coming year?,PREDICTION
+Can we predict if patient ID 222 will require radiation therapy for their cancer in the near future?,PREDICTION
+Is it probable that patient ID 333 will have a heart bypass surgery in the coming months?,PREDICTION
+Can we anticipate any worsening of patient ID 444's chronic neurological condition in the next few months?,PREDICTION
+Is patient ID 555 at risk of developing a new endocrine disorder in the near future?,PREDICTION
+What is the likelihood of patient ID 666 experiencing a relapse of their respiratory condition in the coming year?,PREDICTION
+Can we predict if patient ID 777 will require a surgery for their orthopedic condition in the near future?,PREDICTION
+Is it possible for patient ID 888 to experience a recurrence of their gastrointestinal disorder in the coming months?,PREDICTION
+What is the potential for patient ID 999 to have a surgical procedure for their cardiovascular condition in the near future?,PREDICTION
+Can we predict the likelihood of the patient experiencing a heart attack in the near future?,PREDICTION
+What is the predicted risk of the patient developing type 2 diabetes in the next 5 years?,PREDICTION
+"Based on the patient's medical history, can we predict their susceptibility to lung cancer?",PREDICTION
+What is the predicted timeline for the patient's recovery from their current illness?,PREDICTION
+Can we predict the probability of the patient's condition worsening over time?,PREDICTION
+What is the predicted likelihood of the patient experiencing complications after their surgery?,PREDICTION
+Can we predict the patient's response to a certain medication based on their genetics?,PREDICTION
+What is the predicted timeframe for the patient to fully recover from their current injury?,PREDICTION
+"Based on the patient's lifestyle habits, can we predict their risk of developing a chronic illness?",PREDICTION
+What is the predicted outcome of the patient's treatment plan for their current condition?,PREDICTION
+Can we predict the likelihood of the patient experiencing a relapse of their current illness?,PREDICTION
+What is the predicted timeline for the patient's rehabilitation after their surgery?,PREDICTION
+"Based on the patient's family medical history, can we predict their risk of developing certain illnesses?",PREDICTION
+What is the predicted effectiveness of the patient's current treatment plan for their condition?,PREDICTION
+Can we predict the probability of the patient developing an adverse reaction to a certain medication?,PREDICTION
+What is the predicted likelihood of the patient's condition becoming chronic?,PREDICTION
+"Based on the patient's medical history, can we predict their susceptibility to certain allergies?",PREDICTION
+What is the predicted timeline for the patient's recovery from a recent injury?,PREDICTION
+Can we predict the patient's response to a certain treatment based on their previous medical history?,PREDICTION
+What is the predicted probability of the patient experiencing a certain side effect from their medication?,PREDICTION
+"Based on the patient's lifestyle habits, can we predict their risk of developing a certain type of cancer?",PREDICTION
+What is the predicted effectiveness of the patient's current treatment plan for their chronic illness?,PREDICTION
+Can we predict the likelihood of the patient experiencing complications from a certain procedure?,PREDICTION
+What is the predicted timeline for the patient to see improvement in their condition with their current treatment plan?,PREDICTION
+"Based on the patient's medical history, can we predict their risk of developing a certain autoimmune disorder?",PREDICTION
+What is the predicted probability of the patient experiencing a relapse of their chronic illness?,PREDICTION
+Can we predict the patient's response to a certain medication based on their current condition?,PREDICTION
+What is the predicted effectiveness of a certain surgery for the patient's current condition?,PREDICTION
+"Based on the patient's lifestyle habits, can we predict their risk of developing a certain mental health disorder?",PREDICTION
+What is the predicted timeline for the patient to regain their strength after a recent illness?,PREDICTION
+Can we predict the likelihood of the patient developing an infection after a certain procedure?,PREDICTION
+What is the predicted probability of the patient experiencing a certain symptom after starting a new medication?,PREDICTION
+"Based on the patient's medical history, can we predict their susceptibility to a certain virus?",PREDICTION
+What is the predicted effectiveness of a certain therapy for the patient's current mental health disorder?,PREDICTION
+Can we predict the likelihood of the patient experiencing a reaction to a certain anesthesia?,PREDICTION
+What is the predicted timeline for the patient's recovery from a certain surgery?,PREDICTION
+"Based on the patient's lifestyle habits, can we predict their risk of developing a certain type of addiction?",PREDICTION
+What is the predicted outcome of a certain rehabilitation program for the patient's current condition?,PREDICTION
+Can we predict the probability of the patient experiencing complications after a certain medical procedure?,PREDICTION
+Will patient 12345 test positive for a certain genetic mutation?,PREDICTION
+Is patient 6789 at risk for developing type 2 diabetes?,PREDICTION
+Will patient 9876 develop hypertension in the next year?,PREDICTION
+Is patient 4321 likely to experience a heart attack in the next 6 months?,PREDICTION
+Will patient 2345 test positive for a specific virus?,PREDICTION
+Is patient 6789 at risk for developing a particular form of cancer?,PREDICTION
+Will patient 12345 be diagnosed with Alzheimer's disease within the next 5 years?,PREDICTION
+Is patient 9876 likely to experience a stroke within the next year?,PREDICTION
+Will patient 4321 test positive for a certain autoimmune disorder?,PREDICTION
+Is patient 2345 at risk for developing a severe allergic reaction?,PREDICTION
+Will patient 12345 test positive for a particular bacterium?,PREDICTION
+Is patient 6789 likely to develop a certain type of infection?,PREDICTION
+Will patient 9876 test positive for a certain fungus?,PREDICTION
+Is patient 4321 at risk for developing a particular type of cancer?,PREDICTION
+Will patient 2345 test positive for a specific parasite?,PREDICTION
+Is patient 6789 at risk for developing a certain neurological disorder?,PREDICTION
+Will patient 12345 test positive for a certain virus strain?,PREDICTION
+Is patient 9876 likely to develop a certain respiratory condition?,PREDICTION
+Will patient 4321 test positive for a particular toxin?,PREDICTION
+Is patient 2345 at risk for developing a certain skin disorder?,PREDICTION
+Will patient 12345 be diagnosed with a particular form of heart disease?,PREDICTION
+Is patient 6789 likely to develop a certain gastrointestinal condition?,PREDICTION
+Will patient 9876 test positive for a certain bacteria strain?,PREDICTION
+Is patient 4321 at risk for developing a certain autoimmune disease?,PREDICTION
+Will patient 2345 test positive for a specific allergen?,PREDICTION
+Is patient 6789 likely to develop a certain psychiatric disorder?,PREDICTION
+Will patient 12345 test positive for a certain parasitic infection?,PREDICTION
+Is patient 9876 at risk for developing a particular form of kidney disease?,PREDICTION
+Will patient 4321 be diagnosed with a certain type of cancer?,PREDICTION
+Is patient 2345 likely to develop a certain hormonal disorder?,PREDICTION
+Will patient 12345 test positive for a particular fungal infection?,PREDICTION
+Is patient 6789 at risk for developing a certain respiratory disease?,PREDICTION
+Will patient 9876 be diagnosed with a certain type of skin cancer?,PREDICTION
+Is patient 4321 likely to develop a certain neurological condition?,PREDICTION
+Will patient 2345 test positive for a certain virus strain?,PREDICTION
+Is patient 6789 at risk for developing a certain eye disorder?,PREDICTION
+Will patient 12345 be diagnosed with a certain type of liver disease?,PREDICTION
+Is patient 9876 likely to develop a certain cardiovascular condition?,PREDICTION
+Will patient 4321 test positive for a certain autoimmune antibody?,PREDICTION
+Is patient 2345 at risk for developing a certain blood disorder?,PREDICTION
+Will patient 12345 test positive for a certain bacterial strain?,PREDICTION
+Is patient 6789 likely to develop a certain metabolic disorder?,PREDICTION
+Will patient 9876 be diagnosed with a certain type of brain tumor?,PREDICTION
+Is patient 4321 at risk for developing a certain viral infection?,PREDICTION
+Will patient 2345 test positive for a certain fungal strain?,PREDICTION
+Is patient 6789 at risk for developing a certain genetic disorder?,PREDICTION
+Will patient 12345 be diagnosed with a certain autoimmune condition?,PREDICTION
+Will the patient test positive for COVID-19?,PREDICTION
+Will the patient develop diabetes in the next year?,PREDICTION
+Is the patient likely to have a heart attack in the next 6 months?,PREDICTION
+Will the patient's cancer go into remission?,PREDICTION
+Will the patient's mental health improve with treatment?,PREDICTION
+Will the patient's high blood pressure be controlled with medication?,PREDICTION
+Will the patient's wound heal without complications?,PREDICTION
+Will the patient's pneumonia improve with antibiotics?,PREDICTION
+Will the patient's broken bone heal properly?,PREDICTION
+Will the patient's fever go down with treatment?,PREDICTION
+Will the patient's allergy symptoms improve with medication?,PREDICTION
+Will the patient's migraine be alleviated with treatment?,PREDICTION
+Will the patient's rash clear up with medication?,PREDICTION
+Will the patient's surgery be successful?,PREDICTION
+Will the patient's joint pain improve with treatment?,PREDICTION
+Will the patient's asthma be controlled with medication?,PREDICTION
+Will the patient's sleep apnea improve with treatment?,PREDICTION
+Will the patient's cholesterol levels decrease with medication?,PREDICTION
+Will the patient's liver function improve with treatment?,PREDICTION
+Will the patient's kidney function improve with treatment?,PREDICTION
+Will the patient's thyroid condition improve with medication?,PREDICTION
+Will the patient's fertility be improved with treatment?,PREDICTION
+Will the patient's hearing improve with treatment?,PREDICTION
+Will the patient's vision improve with treatment?,PREDICTION
+Will the patient's wound infection be successfully treated?,PREDICTION
+Will the patient's cancer treatment be effective?,PREDICTION
+Will the patient's arthritis pain be alleviated with treatment?,PREDICTION
+Will the patient's COPD be controlled with medication?,PREDICTION
+Will the patient's stroke rehabilitation be successful?,PREDICTION
+Will the patient's chemotherapy be successful?,PREDICTION
+Will the patient's radiation therapy be successful?,PREDICTION
+Will the patient's HIV treatment be successful?,PREDICTION
+Will the patient's Parkinson's disease progress quickly?,PREDICTION
+Will the patient's Alzheimer's disease progress quickly?,PREDICTION
+Will the patient's multiple sclerosis progress quickly?,PREDICTION
+Will the patient's amyotrophic lateral sclerosis (ALS) progress quickly?,PREDICTION
+Will the patient's lupus be controlled with medication?,PREDICTION
+Will the patient's psoriasis be controlled with medication?,PREDICTION
+Will the patient's Crohn's disease be controlled with medication?,PREDICTION
+Will the patient's ulcerative colitis be controlled with medication?,PREDICTION
+Will the patient's chronic pain be alleviated with treatment?,PREDICTION
+Will the patient's anxiety improve with treatment?,PREDICTION
+Will the patient's depression improve with treatment?,PREDICTION
+Will the patient's bipolar disorder be controlled with medication?,PREDICTION
+Will the patient's schizophrenia be controlled with medication?,PREDICTION
+Will the patient's substance abuse be successfully treated?,PREDICTION
+Will the patient's eating disorder be successfully treated?,PREDICTION
+Will the patient's sleep disorder be successfully treated?,PREDICTION
+Will the patient's personality disorder be successfully treated?,PREDICTION
+Will the patient's sexual dysfunction be successfully treated?,PREDICTION
+an we predict if the patient will develop diabetes in the next year based on their medical history?,PREDICTION
+"Based on previous test results, can we predict if the patient's cancer will reoccur?",PREDICTION
+"Using machine learning, can we predict if a patient is likely to develop Alzheimer's disease?",PREDICTION
+Can we predict the likelihood of a patient experiencing a heart attack based on their current medication regimen?,PREDICTION
+"Based on their current lifestyle and genetic predispositions, can we predict if the patient is at risk of developing obesity?",PREDICTION
+Can we predict if a patient is at risk of developing kidney disease based on their current lab results?,PREDICTION
+"Using predictive analytics, can we determine if a patient is at risk of experiencing a stroke in the near future?",PREDICTION
+Can we predict if a patient will experience complications after undergoing surgery?,PREDICTION
+"Based on a patient's medical history, can we predict if they are at risk of developing a respiratory illness?",PREDICTION
+Can we predict if a patient is likely to suffer from depression based on their family history and lifestyle factors?,PREDICTION
+"Using predictive algorithms, can we determine if a patient is at risk of developing complications during pregnancy?",PREDICTION
+Can we predict the likelihood of a patient experiencing a relapse of their addiction?,PREDICTION
+"Based on a patient's demographics and medical history, can we predict if they are at risk of developing certain autoimmune diseases?",PREDICTION
+"Using predictive modeling, can we determine if a patient is at risk of developing complications from a chronic illness?",PREDICTION
+Can we predict if a patient is likely to develop skin cancer based on their current exposure to the sun and past sunburns?,PREDICTION
+"Based on a patient's symptoms and medical history, can we predict if they have a viral or bacterial infection?",PREDICTION
+Can we predict if a patient is at risk of developing hearing loss based on their current job and lifestyle factors?,PREDICTION
+"Using machine learning algorithms, can we predict if a patient is likely to develop hypertension in the future?",PREDICTION
+Can we predict if a patient is at risk of developing asthma based on their current allergies and lifestyle factors?,PREDICTION
+"Based on a patient's genetics and family history, can we predict if they are at risk of developing certain types of cancer?",PREDICTION
+"Using predictive analytics, can we determine if a patient is at risk of developing blood clots?",PREDICTION
+Can we predict if a patient is likely to experience a flare-up of their autoimmune disease?,PREDICTION
+"Based on a patient's medical history, can we predict if they are at risk of developing osteoporosis?",PREDICTION
+"Using predictive algorithms, can we determine if a patient is at risk of developing complications from a traumatic injury?",PREDICTION
+Can we predict if a patient is at risk of developing allergies based on their family history and exposure to allergens?,PREDICTION
+"Based on a patient's lifestyle factors and medical history, can we predict if they are at risk of developing liver disease?",PREDICTION
+"Using predictive modeling, can we determine if a patient is at risk of developing complications from diabetes?",PREDICTION
+Can we predict if a patient is likely to develop chronic pain based on their medical history and lifestyle factors?,PREDICTION
+"Based on a patient's symptoms and medical history, can we predict if they have a mental health condition?",PREDICTION
+"Using predictive analytics, can we determine if a patient is at risk of developing pneumonia?",PREDICTION
+Can we predict if a patient is at risk of developing sepsis based on their medical history and current health status?,PREDICTION
+"Based on a patient's medical history and lifestyle factors, can we predict if they are at risk of developing a sleep disorder?",PREDICTION
+"Using machine learning algorithms, can we predict if a patient is likely to experience complications from a heart condition",PREDICTION
+Will the patient's blood pressure exceed 140/90 in the next week?,PREDICTION
+Is the patient likely to develop diabetes within the next year?,PREDICTION
+Will the patient experience a heart attack within the next 6 months?,PREDICTION
+Is the patient at risk of developing a lung infection within the next month?,PREDICTION
+Will the patient's cancer go into remission within the next 3 months?,PREDICTION
+Is the patient likely to develop a complication from their surgery in the next week?,PREDICTION
+Will the patient's mental health condition improve in the next month?,PREDICTION
+Is the patient at risk of experiencing a fall in the next 3 months?,PREDICTION
+Will the patient's wound heal within the next 2 weeks?,PREDICTION
+Is the patient likely to experience a stroke within the next year?,PREDICTION
+Will the patient's kidney function decline in the next month?,PREDICTION
+Is the patient at risk of developing an allergic reaction to their medication in the next week?,PREDICTION
+Will the patient's vision improve after their upcoming surgery?,PREDICTION
+Is the patient likely to develop a urinary tract infection within the next month?,PREDICTION
+Will the patient's breathing improve after receiving a particular treatment?,PREDICTION
+Is the patient at risk of developing sepsis within the next week?,PREDICTION
+Will the patient's arthritis symptoms improve within the next 3 months?,PREDICTION
+Is the patient likely to experience a relapse of their mental health condition in the next year?,PREDICTION
+Will the patient's digestive issues improve with dietary changes?,PREDICTION
+Is the patient at risk of developing a blood clot in the next month?,PREDICTION
+Will the patient's physical therapy help them regain mobility?,PREDICTION
+Is the patient likely to develop a complication from their chemotherapy treatment in the next month?,PREDICTION
+Will the patient's chronic pain improve with a new medication?,PREDICTION
+Is the patient at risk of experiencing a heart arrhythmia in the next week?,PREDICTION
+Will the patient's skin condition improve with a new topical treatment?,PREDICTION
+Is the patient likely to experience a relapse of their addiction in the next year?,PREDICTION
+Will the patient's muscle strength improve with regular exercise?,PREDICTION
+Is the patient at risk of developing an infection at their surgical incision site in the next week?,PREDICTION
+Will the patient's cognitive function decline in the next month?,PREDICTION
+Is the patient likely to develop a pressure ulcer within the next 2 weeks?,PREDICTION
+Will the patient's depression symptoms improve with a new therapy approach?,PREDICTION
+Is the patient at risk of experiencing a seizure in the next week?,PREDICTION
+Will the patient's chronic cough improve with a new medication?,PREDICTION
+Is the patient likely to develop a blood clot in their leg within the next month?,PREDICTION
+Will the patient's balance improve with physical therapy?,PREDICTION
+Is the patient at risk of developing pneumonia in the next week?,PREDICTION
+Will the patient's wound infection clear up with antibiotic treatment?,PREDICTION
+Is the patient likely to experience a relapse of their substance use disorder in the next year?,PREDICTION
+Will the patient's joint pain improve with a new treatment approach?,PREDICTION
+Is the patient at risk of experiencing a fall-related injury in the next month?,PREDICTION
+Will the patient's skin cancer be successfully treated with radiation therapy?,PREDICTION
+Is the patient likely to develop a complication from their immunosuppressive medication in the next week?,PREDICTION
+Will the patient's sleep apnea symptoms improve with a new device?,PREDICTION
+Is the patient at risk of developing a respiratory infection in the next month?,PREDICTION
+Will the patient's osteoporosis improve with a new medication?,PREDICTION
+Is the patient likely to experience a flare-up of their autoimmune disease in the next year?,PREDICTION
+Will the patient with ID 456 require hospitalization in the next month?,PREDICTION
+What is the likelihood of a patient with hypertension developing heart disease within the next year?,PREDICTION
+Can we predict if a patient with diabetes will experience complications in the next 6 months?,PREDICTION
+Is there a chance that the patient with ID 789 will develop cancer in the next 5 years?,PREDICTION
+Will the patient with ID 246 have a heart attack within the next 6 months?,PREDICTION
+Can we predict if the patient with ID 123 will experience a relapse of their condition in the next year?,PREDICTION
+What is the probability of a patient with a family history of Alzheimer's disease developing the condition in the next 10 years?,PREDICTION
+Will the patient with ID 345 require surgery in the next 3 months?,PREDICTION
+Is it likely that the patient with ID 678 will need a blood transfusion in the next week?,PREDICTION
+Can we predict if the patient with ID 901 will experience a stroke in the next 6 months?,PREDICTION
+Will the patient with ID 234 develop an infection in the next month?,PREDICTION
+Is there a chance that the patient with ID 567 will need to be hospitalized due to their condition within the next year?,PREDICTION
+What is the probability of a patient with a history of substance abuse experiencing a relapse in the next 6 months?,PREDICTION
+Can we predict if the patient with ID 890 will require long-term care in the next year?,PREDICTION
+Will the patient with ID 321 experience a seizure in the next month?,PREDICTION
+Is it likely that the patient with ID 654 will develop an allergy to a medication they are currently taking?,PREDICTION
+Can we predict if the patient with ID 987 will experience a mental health crisis in the next 6 months?,PREDICTION
+What is the probability of a patient with a history of heart disease experiencing a cardiac event in the next year?,PREDICTION
+Will the patient with ID 432 need to be readmitted to the hospital within the next month?,PREDICTION
+Is there a chance that the patient with ID 765 will develop a respiratory illness in the next week?,PREDICTION
+Can we predict if the patient with ID 098 will require dialysis in the next 6 months?,PREDICTION
+Will the patient with ID 219 experience a fall within the next month?,PREDICTION
+What is the likelihood of a patient with a family history of diabetes developing the condition in the next 5 years?,PREDICTION
+Can we predict if the patient with ID 543 will need a blood transfusion in the next 24 hours?,PREDICTION
+Is patient 3456 currently taking medication for hypertension?,INDIVIDUAL
+Does patient 7890 have a history of allergies?,INDIVIDUAL
+Has patient 1234 been diagnosed with type 2 diabetes?,INDIVIDUAL
+Is patient 4567 currently being treated for depression?,INDIVIDUAL
+Does patient 8901 have a history of alcohol abuse?,INDIVIDUAL
+Has patient 2345 been diagnosed with asthma?,INDIVIDUAL
+Is patient 5678 currently taking medication for high cholesterol?,INDIVIDUAL
+Does patient 9012 have a family history of cancer?,INDIVIDUAL
+Has patient 3456 been diagnosed with osteoporosis?,INDIVIDUAL
+Is patient 7890 currently being treated for anxiety?,INDIVIDUAL
+Does patient 1234 have a history of smoking?,INDIVIDUAL
+Has patient 4567 been diagnosed with rheumatoid arthritis?,INDIVIDUAL
+Is patient 8901 currently taking medication for ADHD?,INDIVIDUAL
+Does patient 2345 have a history of heart disease?,INDIVIDUAL
+Has patient 5678 been diagnosed with migraines?,INDIVIDUAL
+Is patient 9012 currently being treated for sleep apnea?,INDIVIDUAL
+Does patient 3456 have a history of kidney disease?,INDIVIDUAL
+Has patient 7890 been diagnosed with a thyroid disorder?,INDIVIDUAL
+Is patient 1234 currently taking medication for chronic pain?,INDIVIDUAL
+Does patient 4567 have a family history of Alzheimer's disease?,INDIVIDUAL
+Has patient 8901 been diagnosed with a gastrointestinal disorder?,INDIVIDUAL
+Is patient 2345 currently being treated for psoriasis?,INDIVIDUAL
+Does patient 5678 have a history of seizures?,INDIVIDUAL
+Has patient 9012 been diagnosed with multiple sclerosis?,INDIVIDUAL
+Is patient 3456 currently taking medication for a blood clotting disorder?,INDIVIDUAL
+Does patient 7890 have a family history of stroke?,INDIVIDUAL
+Has patient 1234 been diagnosed with a liver disease?,INDIVIDUAL
+Is patient 4567 currently being treated for a skin condition?,INDIVIDUAL
+Does patient 8901 have a history of drug abuse?,INDIVIDUAL
+Has patient 2345 been diagnosed with a lung disease?,INDIVIDUAL
+Is patient 5678 currently taking medication for an autoimmune disorder?,INDIVIDUAL
+Does patient 9012 have a family history of Parkinson's disease?,INDIVIDUAL
+Has patient 3456 been diagnosed with a bladder condition?,INDIVIDUAL
+Is patient 7890 currently being treated for a hearing disorder?,INDIVIDUAL
+Does patient 1234 have a history of eating disorders?,INDIVIDUAL
+Has patient 4567 been diagnosed with a blood disorder?,INDIVIDUAL
+Is patient 8901 currently taking medication for a skin infection?,INDIVIDUAL
+Does patient 2345 have a family history of multiple sclerosis?,INDIVIDUAL
+Has patient 5678 been diagnosed with a neurological disorder?,INDIVIDUAL
+Is patient 9012 currently being treated for an eye condition?,INDIVIDUAL
+Does patient 3456 have a history of liver disease?,INDIVIDUAL
+Has patient 7890 been diagnosed with a respiratory condition?,INDIVIDUAL
+Is patient 1234 currently taking medication for a neurological disorder?,INDIVIDUAL
+Does patient 4567 have a family history of mental illness?,INDIVIDUAL
+Has patient 8901 been diagnosed with a vascular condition?,INDIVIDUAL
+Is patient 2345 currently being treated for a chronic infection?,INDIVIDUAL
+Does patient 5678 have a history of autoimmune disorders?,INDIVIDUAL
+Has patient 9012 been diagnosed with a rare disease?,INDIVIDUAL
+Is patient 3456 currently taking medication for a digestive disorder?,INDIVIDUAL
+Does patient 7890 have a family history of diabetes?,INDIVIDUAL
+What is the most recent diagnosis for patient 7624?,INDIVIDUAL
+What medications has patient 9102 been prescribed?,INDIVIDUAL
+Has patient 1045 experienced any adverse reactions to their medication?,INDIVIDUAL
+What is the current blood pressure of patient 2341?,INDIVIDUAL
+What was the result of the most recent blood test for patient 8743?,INDIVIDUAL
+How often does patient 6451 report headaches?,INDIVIDUAL
+Has patient 7832 ever been diagnosed with diabetes?,INDIVIDUAL
+What is the current BMI of patient 3589?,INDIVIDUAL
+Does patient 1098 have a history of heart disease?,INDIVIDUAL
+How often does patient 1207 experience shortness of breath?,INDIVIDUAL
+What was the outcome of the most recent X-ray for patient 5126?,INDIVIDUAL
+What is the current hemoglobin level for patient 3674?,INDIVIDUAL
+Has patient 6783 ever been treated for cancer?,INDIVIDUAL
+Does patient 9846 have any allergies?,INDIVIDUAL
+What is the most recent ultrasound result for patient 4265?,INDIVIDUAL
+Has patient 7895 ever been diagnosed with an autoimmune disorder?,INDIVIDUAL
+What is the current heart rate of patient 6529?,INDIVIDUAL
+How often does patient 2347 experience chest pain?,INDIVIDUAL
+What is the current white blood cell count for patient 5681?,INDIVIDUAL
+Has patient 3456 ever been treated for a mental health condition?,INDIVIDUAL
+Does patient 1092 have a history of smoking?,INDIVIDUAL
+What is the current liver function test result for patient 7290?,INDIVIDUAL
+Has patient 8713 ever had surgery?,INDIVIDUAL
+What is the most recent electrocardiogram result for patient 4169?,INDIVIDUAL
+Does patient 2354 have any family history of heart disease?,INDIVIDUAL
+How often does patient 5498 report dizziness?,INDIVIDUAL
+What is the current platelet count for patient 6201?,INDIVIDUAL
+Has patient 7186 ever been diagnosed with arthritis?,INDIVIDUAL
+Does patient 9357 have a history of asthma?,INDIVIDUAL
+What is the most recent CT scan result for patient 8732?,INDIVIDUAL
+Hou meny people with hbA1c > 7 haf diabetes?,ANALYTICS
+What proprotion of pepole with hypetension hav high cholestrl?,ANALYTICS
+How maney patints with cancar have recievd radiaiton therpy?,ANALYTICS
+Wat is the avegage LDL cholesrol levle for peaple with heart disese?,ANALYTICS
+Haw many indviduals with diabetis have retinapathy?,ANALYTICS
+What percetage of patints with pneumonayia have been vaccnated?,ANALYTICS
+How many peple with thyorid disfuction are on hormon replacment therpy?,ANALYTICS
+What is the averge bloo suger levle of pepole with hyperglicemia?,ANALYTICS
+How mani patints with arthrts have had joinit surjery?,ANALYTICS
+Hou many people with astma hav allerges?,ANALYTICS
+Wat is the percantge of patints with livr disese who hav cirhosis?,ANALYTICS
+How many indviduals with hypertenstion hav had a hart attck?,ANALYTICS
+What is the avegage HbA1c levle for patints with diabates?,ANALYTICS
+How mani patints with cancar have survided mor than 5 yerars?,ANALYTICS
+Hou many pepole with rheumatiod arthrites are on immunosupresive therpy?,ANALYTICS
+What is the proprotion of pepole with stomic ulcers who smoke?,ANALYTICS
+How mani patints with chronik kidnay diseze are on dialisis?,ANALYTICS
+Wat is the averge blood perssure levle of pepole with hypertnsion?,ANALYTICS
+Hou many indviduals with thyorid disfunctn have an imbalnced TSH levle?,ANALYTICS
+What percetage of patints with COPD hav smokd in the past?,ANALYTICS
+How mani people with migrane have had a brain scan?,ANALYTICS
+Wat is the proprtion of pepole with high triglycride levels who have diabetes?,ANALYTICS
+Hou many patints with gastrointstinal disezes have had a colonoscopy?,ANALYTICS
+What is the averge BMI of pepole with obesty?,ANALYTICS
+How many indviduals with lupus are on immunosuprresive therpy?,ANALYTICS
+Hou many pepole with chronik bronchitis have ever smokd?,ANALYTICS
+What is the percantge of patints with hepatts C who hav recievd treatment?,ANALYTICS
+How many patints with osteoporoosis have had a bone density test?,ANALYTICS
+Hou many pepole with psoriasis are on topical corticosteroid therpy?,ANALYTICS
+What is the avegage age of patints with prostat cancar?,ANALYTICS
+How mani people with deprestion have recievd medicatn?,ANALYTICS
+Wat is the proprotion of pepole with iritable bowl syndrom who hav anxity?,ANALYTICS
+Hou many patints with kidney failur are on a waitlist for a transplant?,ANALYTICS
+How many indviduals with chonic fatigu syndrom have had a sleep study?,ANALYTICS
+What is the averge lif expectncy of pepole with cystic fibrosis?,ANALYTICS
+Hou many pepole with ADHD are on stimulnt medicatn?,ANALYTICS
+What is the percentage of peoples with high blood pressure?,ANALYTICS
+Can you tell me how much peoples have diabetes in this dataset?,ANALYTICS
+How much patient have taking medication for cholesterol?,ANALYTICS
+The number of peoples that smoke in the dataset is what?,ANALYTICS
+Tell me the number of peoples who has heart disease?,ANALYTICS
+What is the rate of cancer in female patient?,ANALYTICS
+How many peoples have had a heart attach in the past?,ANALYTICS
+Can you give me information about the patient taking prescription drugs?,ANALYTICS
+What is the proportion of peoples who have high blood sugar?,ANALYTICS
+How many peoples have asthma in this dataset?,ANALYTICS
+How many peoples have allergies?,ANALYTICS
+How much patient have high cholesterol?,ANALYTICS
+Tell me the ratio of males to female in the dataset?,ANALYTICS
+How many patient have been diagnosed with depression?,ANALYTICS
+What is the amount of patient with high blood pressure in this dataset?,ANALYTICS
+Whts the bmi of ptient wth id 5652?,INDIVIDUAL
+Cn you tell me the bmi for ptient 5652?,INDIVIDUAL
+What the bmi of the ptient hving id 5652?,INDIVIDUAL
+Tell me the bmi of ptnt 5652?,INDIVIDUAL
+Pls chck the bmi of patinet with id 5652.,INDIVIDUAL
+"What's the bmi of the patint with id 5652, please?",INDIVIDUAL
+Wht's the bmi of patien with id 5652?,INDIVIDUAL
+What is the bme of ptient 5652?,INDIVIDUAL
+Pls give me the bmi for ptient id 5652.,INDIVIDUAL
+Wats the heartrate of ptient 7843?,INDIVIDUAL
+What is the bloode sugur of the pacient with id 3692?,INDIVIDUAL
+Does patinet 4576 have diabetes?,INDIVIDUAL
+Hoe many people with colesterol leveles over 200 have had a heart attack?,INDIVIDUAL
+Whats the blood preasure of ptient 2398?,INDIVIDUAL
+Has patinet 9912 ever had a headeche?,INDIVIDUAL
+Wats the temperature of the pacient with id 6721?,INDIVIDUAL
+Is patiant 8749 allerjic to penicillin?,INDIVIDUAL
+What is the level of protien in the urin of ptient 1227?,INDIVIDUAL
+Did patiant 5483 receive a flu shot this year?,INDIVIDUAL
+Wht is the bloo suga of patint with ID 2584?,INDIVIDUAL
+What the glucose level of patient 1220 is?,INDIVIDUAL
+Can tell me the patient 4456 medical history?,INDIVIDUAL
+What the cholesterol level for patient with ID 3321?,INDIVIDUAL
+Does patient 1234 have any allergies or no?,INDIVIDUAL
+Can you give me the name of medications which patient 4445 take?,INDIVIDUAL
+How many times the patient with id 2233 visit the doctor?,INDIVIDUAL
+What symptoms did the patient 5432 had?,INDIVIDUAL
+When the patient 5678 get diagnosized?,INDIVIDUAL
+Can you tell me what medication patient 1112 is take?,INDIVIDUAL
+How long the patient 3322 stay in the hospital?,INDIVIDUAL
+What the height of patient 3344 is?,INDIVIDUAL
+Can you check the blood pressure of patient 2234 please?,INDIVIDUAL
+What kind of surgeries did the patient 6543 go through?,INDIVIDUAL
+When the patient 3345 last visit the doctor?,INDIVIDUAL
+Can you tell me if the patient 2234 had any fractures?,INDIVIDUAL
+How much the patient 4456 weigh?,INDIVIDUAL
+Can you check if patient 3322 has any family history of diseases?,INDIVIDUAL
+What are the patient 2344 current symptoms?,INDIVIDUAL
+Can you give me a list of patient 2233's allergies?,INDIVIDUAL
+How many times the patient 4445 had a surgery?,INDIVIDUAL
+Wut is the avrage bloos suggar level of patint 2888?,INDIVIDUAL
+Can you tell me the medikal histry of patint 4434?,INDIVIDUAL
+What's the averge temprature of patint with id 8762?,INDIVIDUAL
+What was the bloood presshur of patint 6783 last week?,INDIVIDUAL
+How many docotors hav seen patint 4556?,INDIVIDUAL
+Can you give me the reslts of the urin test for patint 9999?,INDIVIDUAL
+What was the weigh of patint 3321 at their last apointmnt?,INDIVIDUAL
+What is the kreatinin level of patint 7777?,INDIVIDUAL
+Has patint 1111 ever been diagnose with hypurthyroidism?,INDIVIDUAL
+How many times has patint 2222 had surgry?,INDIVIDUAL
+What is the heartrate of patint 9898?,INDIVIDUAL
+Can you tell me the allergis of patint 7777?,INDIVIDUAL
+What's the oxygen saturation level of patint with id 3333?,INDIVIDUAL
+Has patint 1234 ever been diagnosd with diabets?,INDIVIDUAL
+How long has patint 5678 been experincing symptoms of cough and cold?,INDIVIDUAL
+What is the ldl cholestrol level of patint 9999?,INDIVIDUAL
+What are the results of the MRI scan for patint 4444?,INDIVIDUAL
+What was the body tempuratur of patint 8888 during their last visit?,INDIVIDUAL
+Has patint 5555 ever had a family histoy of heart disease?,INDIVIDUAL
+How many appontments has patint 1111 missed?,INDIVIDUAL
+Predickt wheter the pashent with diabetus will have a heart attack in the nexst month.,PREDICTION
+Will the patien with arithmisia get better with medicin?,PREDICTION
+Can you tell if the pacient with lung cancer will surviev?,PREDICTION
+Will the patient with hepatytis C require a liver transplant?,PREDICTION
+Preddict if the patien with high blood sugar will devolop diabetes.,PREDICTION
+Can you forcast if the pacient with depression will recover?,PREDICTION
+Will the patient with arthritus have to undergo surgery?,PREDICTION
+Preedict whether the patiant with lung fibrosis will get worsse over time.,PREDICTION
+Can you tell if the pacient with bipolar disorder will need to switch medications?,PREDICTION
+Will the patien with thyroid issues need to have surgery?,PREDICTION
+Can you preedict if the pacient with a broken leg will need a cast?,PREDICTION
+Will the patien with multiple sclerosis have a relapse soon?,PREDICTION
+Can you tell if the pacient with a cold will recover soon?,PREDICTION
+Will the patien with bronchitis require hospitalization?,PREDICTION
+Preddict whether the patient with a hernia will need surgery.,PREDICTION
+Will the pacient with heart murmur require medication?,PREDICTION
+Can you tell if the patien with chronic pain will need stronger medication?,PREDICTION
+Will the pacient with skin cancer require chemotherapy?,PREDICTION
+Preedict whether the patient with high cholesterol will have a heart attack.,PREDICTION
+Can you tell if the patien with an ear infection will need antibiotics?,PREDICTION
+Will the pacient with psoriasis require phototherapy?,PREDICTION
+Predict if the patient with liver cirrhosis will need a liver transplant.,PREDICTION
+Can you predict whether the patient with ID 1234 will develop diabetes?,PREDICTION
+"What is your prediction for the patient with ID 5678, will they require surgery?",PREDICTION
+Do you predict that the patient with ID 9012 will recover from their current condition?,PREDICTION
+"Will the patient with ID 3456 experience any adverse reactions to their medication, as per your prediction?",PREDICTION
+Can you predict whether the patient with ID 7890 will require hospitalization in the near future?,PREDICTION
+"What is your prediction for the patient with ID 2345, will their symptoms improve or worsen?",PREDICTION
+Do you predict that the patient with ID 6789 will require any further diagnostic tests?,PREDICTION
+"Will the patient with ID 0123 experience any complications during their upcoming surgery, as per your prediction?",PREDICTION
+Can you predict whether the patient with ID 4567 will experience any side effects from their new medication?,PREDICTION
+"What is your prediction for the patient with ID 8901, will they require a blood transfusion?",PREDICTION
+Do you predict that the patient with ID 2345 will have any adverse reactions to their ongoing treatment?,PREDICTION
+"Will the patient with ID 6789 experience any improvement in their symptoms, as per your prediction?",PREDICTION
+Can you predict whether the patient with ID 0123 will require any further medical intervention?,PREDICTION
+"What is your prediction for the patient with ID 4567, will they require surgery in the near future?",PREDICTION
+Do you predict that the patient with ID 8901 will experience any complications during their hospital stay?,PREDICTION
+"Will the patient with ID 2345 experience any improvement in their condition, as per your prediction?",PREDICTION
+Can you predict whether the patient with ID 6789 will require any additional medications?,PREDICTION
+"What is your prediction for the patient with ID 0123, will they require a longer hospital stay?",PREDICTION
+Do you predict that the patient with ID 4567 will experience any allergic reactions to their medication?,PREDICTION
+"Will the patient with ID 8901 experience any improvement in their mobility, as per your prediction?",PREDICTION

@@ -1,0 +1,1009 @@
+QUERY,LABEL
+How many female patients have had a heart attack?,COUNT
+Give the number of people with diabetes who have suffered from a stroke.,COUNT
+How many patients over age 65 have been diagnosed with cancer?,COUNT
+How many patients with asthma have been hospitalized in the past year?,COUNT
+Give the number of patients with a BMI over 30 who have been diagnosed with hypertension.,COUNT
+How many patients with a history of smoking have been diagnosed with lung cancer?,COUNT
+Give the number of patients with a family history of heart disease who have been diagnosed with high cholesterol.,COUNT
+How many patients with a history of depression have been diagnosed with anxiety?,COUNT
+Give the number of patients with a history of alcohol abuse who have been diagnosed with liver disease.,COUNT
+How many patients with a history of drug abuse have been diagnosed with hepatitis C?,COUNT
+Give the number of patients with a history of HIV who have been diagnosed with tuberculosis.,COUNT
+How many patients with a history of migraines have been diagnosed with epilepsy?,COUNT
+Give the number of patients with a history of osteoporosis who have suffered a bone fracture in the past year.,COUNT
+How many patients with a history of arthritis have undergone joint replacement surgery?,COUNT
+Give the number of patients with a history of glaucoma who have undergone cataract surgery.,COUNT
+How many patients with a history of allergies have been prescribed an EpiPen?,COUNT
+Give the number of patients with a history of psoriasis who have been diagnosed with psoriatic arthritis.,COUNT
+How many patients with a history of lupus have been diagnosed with kidney disease?,COUNT
+Give the number of patients with a history of Crohn's disease who have been diagnosed with colon cancer.,COUNT
+How many patients with a history of ulcerative colitis have undergone colectomy surgery?,COUNT
+Give the number of patients with a history of multiple sclerosis who have been diagnosed with depression.,COUNT
+How many patients with a history of Parkinson's disease have been diagnosed with dementia?,COUNT
+Give the number of patients with a history of bipolar disorder who have been diagnosed with schizophrenia.,COUNT
+How many patients with a history of anxiety have been diagnosed with panic disorder?,COUNT
+Give the number of patients with a history of ADHD who have been diagnosed with autism.,COUNT
+How many patients with a history of sleep apnea have been prescribed a CPAP machine?,COUNT
+Give the number of patients with a history of chronic pain who have been diagnosed with fibromyalgia.,COUNT
+How many patients with a history of chronic fatigue syndrome have been diagnosed with depression?,COUNT
+Give the number of patients with a history of traumatic brain injury who have been diagnosed with post-traumatic stress disorder.,COUNT
+How many patients with a history of anorexia nervosa have been diagnosed with bulimia nervosa?,COUNT
+Give the number of patients with a history of substance abuse who have been diagnosed with an eating disorder.,COUNT
+How many patients with a history of self-harm have been diagnosed with borderline personality disorder?,COUNT
+Give the number of patients with a history of schizophrenia who have been diagnosed with bipolar disorder.,COUNT
+How many patients with a history of substance abuse have been diagnosed with major depressive disorder?,COUNT
+Give the number of patients with a history of anxiety who have been diagnosed with generalized anxiety disorder.,COUNT
+How many patients with a history of chronic pain have been diagnosed with complex regional pain syndrome?,COUNT
+Give the number of patients with a history of panic disorder who have been diagnosed with agoraphobia.,COUNT
+How many patients with a history of alcoholism have been diagnosed with alcoholic liver disease?,COUNT
+How many patients with a history of smoking have been diagnosed with emphysema?,COUNT
+Give the number of patients with a history of alcohol abuse who have been diagnosed with pancreatitis.,COUNT
+How many patients with a history of drug abuse have been diagnosed with HIV?,COUNT
+Give the number of patients with a history of depression who have attempted suicide.,COUNT
+How many patients with a history of anxiety have been diagnosed with obsessive-compulsive disorder?,COUNT
+Give the number of patients with a history of ADHD who have been diagnosed with oppositional defiant disorder.,COUNT
+How many patients with a history of bipolar disorder have been hospitalized for mania?,COUNT
+Give the number of patients with a history of schizophrenia who have been diagnosed with delusional disorder.,COUNT
+How many patients with a history of substance abuse have been diagnosed with polysubstance abuse?,COUNT
+Give the number of patients with a history of PTSD who have been diagnosed with acute stress disorder.,COUNT
+How many patients with a history of migraines have been prescribed triptan medications?,COUNT
+Give the number of patients with a history of osteoporosis who have been prescribed bisphosphonate medications.,COUNT
+How many patients with a history of asthma have been prescribed inhaled corticosteroid medications?,COUNT
+Give the number of patients with a history of COPD who have been prescribed oxygen therapy.,COUNT
+How many patients with a history of diabetes have undergone bariatric surgery?,COUNT
+Give the number of patients with a history of heart disease who have undergone angioplasty.,COUNT
+How many patients with a history of kidney disease have undergone dialysis?,COUNT
+Give the number of patients with a history of liver disease who have undergone liver transplant surgery.,COUNT
+How many patients with a history of cancer have undergone radiation therapy?,COUNT
+Give the number of patients with a history of stroke who have undergone speech therapy.,COUNT
+How many patients with a history of depression have been prescribed antidepressant medications?,COUNT
+Give the number of patients with a history of anxiety who have been prescribed benzodiazepine medications.,COUNT
+How many patients with a history of substance abuse have been prescribed opioid medications?,COUNT
+Give the number of patients with a history of bipolar disorder who have been prescribed mood stabilizer medications.,COUNT
+How many patients with a history of schizophrenia have been prescribed antipsychotic medications?,COUNT
+Give the number of patients with a history of migraines who have been prescribed beta blocker medications.,COUNT
+How many patients with a history of osteoporosis have been prescribed calcium and vitamin D supplements?,COUNT
+Give the number of patients with a history of heart disease who have been prescribed statin medications.,COUNT
+How many patients with a history of kidney disease have been prescribed ACE inhibitor medications?,COUNT
+Give the number of patients with a history of liver disease who have been prescribed lactulose medications.,COUNT
+How many patients with a history of cancer have undergone chemotherapy?,COUNT
+Give the number of patients with a history of stroke who have undergone physical therapy.,COUNT
+How many patients with a history of depression have been prescribed cognitive-behavioral therapy?,COUNT
+Give the number of patients with a history of anxiety who have been prescribed exposure therapy.,COUNT
+How many patients with a history of substance abuse have undergone detoxification treatment?,COUNT
+Give the number of patients with a history of bipolar disorder who have undergone electroconvulsive therapy.,COUNT
+How many patients with a history of schizophrenia have undergone cognitive remediation therapy.,COUNT
+Give the number of patients with a history of migraines who have undergone acupuncture therapy.,COUNT
+How many patients with a history of osteoporosis have undergone bone density testing.,COUNT
+How many patients with a history of alcoholism have been diagnosed with liver cirrhosis?,COUNT
+Give the number of patients with a history of substance abuse who have been diagnosed with hepatitis C.,COUNT
+How many patients with a history of depression have been diagnosed with major depressive disorder?,COUNT
+Give the number of patients with a history of anxiety who have been diagnosed with generalized anxiety disorder.,COUNT
+How many patients with a history of bipolar disorder have been diagnosed with rapid cycling?,COUNT
+Give the number of patients with a history of schizophrenia who have been diagnosed with schizoaffective disorder.,COUNT
+How many patients with a history of substance abuse have been diagnosed with opioid use disorder?,COUNT
+Give the number of patients with a history of PTSD who have been diagnosed with borderline personality disorder.,COUNT
+How many patients with a history of migraines have been diagnosed with tension-type headaches?,COUNT
+Give the number of patients with a history of osteoporosis who have been diagnosed with vertebral fractures.,COUNT
+How many patients with a history of heart disease have undergone bypass surgery?,COUNT
+Give the number of patients with a history of kidney disease who have undergone kidney transplant surgery.,COUNT
+How many patients with a history of lung cancer have undergone lobectomy surgery?,COUNT
+Give the number of patients with a history of stroke who have undergone occupational therapy.,COUNT
+How many patients with a history of depression have undergone interpersonal therapy?,COUNT
+Give the number of patients with a history of anxiety who have undergone mindfulness-based stress reduction therapy.,COUNT
+How many patients with a history of bipolar disorder have undergone psychoeducation therapy?,COUNT
+Give the number of patients with a history of schizophrenia who have undergone assertive community treatment.,COUNT
+How many patients with a history of substance abuse have undergone motivational interviewing therapy?,COUNT
+Give the number of patients with a history of migraines who have undergone biofeedback therapy.,COUNT
+How many patients with a history of osteoporosis have been prescribed bisphosphonate and calcium supplements?,COUNT
+Give the number of patients with a history of heart disease who have been prescribed beta-blocker medications.,COUNT
+How many patients with a history of kidney disease have been prescribed angiotensin receptor blocker medications?,COUNT
+Give the number of patients with a history of liver disease who have been prescribed diuretic medications.,COUNT
+How many patients with a history of cancer have undergone surgery as part of their treatment?,COUNT
+Give the number of patients with a history of stroke who have undergone swallowing therapy.,COUNT
+How many patients with a history of depression have undergone cognitive processing therapy?,COUNT
+Give the number of patients with a history of anxiety who have undergone cognitive-behavioral group therapy.,COUNT
+What is the total number of female patients who have been diagnosed with breast cancer?,COUNT
+How many individuals in the dataset have been diagnosed with type 2 diabetes?,COUNT
+Give the count of patients who have undergone surgery for gallstones.,COUNT
+What is the number of patients who have been prescribed insulin for their diabetes?,COUNT
+How many people have been diagnosed with high blood pressure and are also obese?,COUNT
+What is the total number of patients who have had a heart attack?,COUNT
+Give the count of patients who have been diagnosed with chronic obstructive pulmonary disease (COPD).,COUNT
+How many individuals have been prescribed blood thinners for their heart conditions?,COUNT
+What is the number of patients who have undergone joint replacement surgery?,COUNT
+Give the count of patients who have been diagnosed with rheumatoid arthritis.,COUNT
+How many people have been diagnosed with kidney stones?,COUNT
+What is the total number of patients who have undergone surgery for a hernia?,COUNT
+Give the count of patients who have been diagnosed with thyroid disease.,COUNT
+How many individuals have been prescribed antidepressants?,COUNT
+What is the number of patients who have undergone surgery for spinal stenosis?,COUNT
+Give the count of patients who have been diagnosed with glaucoma.,COUNT
+How many people have been diagnosed with Parkinson's disease?,COUNT
+What is the total number of patients who have undergone surgery for a herniated disc?,COUNT
+Give the count of patients who have been diagnosed with ulcerative colitis.,COUNT
+How many individuals have been prescribed anti-anxiety medication?,COUNT
+What is the number of patients who have undergone surgery for a torn meniscus?,COUNT
+Give the count of patients who have been diagnosed with psoriasis.,COUNT
+How many people have been diagnosed with multiple sclerosis?,COUNT
+What is the total number of patients who have undergone surgery for a rotator cuff tear?,COUNT
+Give the count of patients who have been diagnosed with irritable bowel syndrome.,COUNT
+How many individuals have been prescribed medication for attention deficit hyperactivity disorder (ADHD)?,COUNT
+What is the number of patients who have undergone surgery for a torn ACL?,COUNT
+Give the count of patients who have been diagnosed with Crohn's disease.,COUNT
+How many people have been diagnosed with bipolar disorder?,COUNT
+What is the total number of patients who have undergone surgery for carpal tunnel syndrome?,COUNT
+Give the count of patients who have been diagnosed with osteoarthritis.,COUNT
+How many individuals have been prescribed medication for acid reflux?,COUNT
+What is the number of patients who have undergone surgery for a hip fracture?,COUNT
+Give the count of patients who have been diagnosed with fibromyalgia.,COUNT
+How many people have been diagnosed with chronic fatigue syndrome?,COUNT
+What is the total number of patients who have undergone surgery for a torn Achilles tendon?,COUNT
+Give the count of patients who have been diagnosed with endometriosis.,COUNT
+How many individuals have been prescribed medication for migraines?,COUNT
+What is the number of patients who have undergone surgery for a torn labrum?,COUNT
+Give the count of patients who have been diagnosed with lupus.,COUNT
+How many people have been diagnosed with gout?,COUNT
+What is the total number of patients who have undergone surgery for a spinal cord injury?,COUNT
+Give the count of patients who have been diagnosed with sleep apnea.,COUNT
+How many individuals have been prescribed medication for allergies?,COUNT
+What is the number of patients who have undergone surgery for a broken ankle?,COUNT
+Give the count of patients who have been diagnosed with osteoporosis.,COUNT
+How many people have been diagnosed with pancreatic cancer?,COUNT
+How many patients have been diagnosed with stage 4 lung cancer?,COUNT
+What is the total number of individuals who have had a stroke and also have high cholesterol?,COUNT
+Give the count of patients who have been diagnosed with stage 3 breast cancer.,COUNT
+How many people have been diagnosed with schizophrenia?,COUNT
+What is the number of patients who have undergone surgery for a ruptured spleen?,COUNT
+Give the count of patients who have been diagnosed with stage 2 prostate cancer.,COUNT
+How many individuals have been prescribed medication for acne?,COUNT
+What is the total number of patients who have undergone surgery for a brain tumor?,COUNT
+Give the count of patients who have been diagnosed with stage 1 cervical cancer.,COUNT
+How many people have been diagnosed with celiac disease?,COUNT
+What is the number of patients who have undergone surgery for a perforated appendix?,COUNT
+Give the count of patients who have been diagnosed with stage 4 ovarian cancer.,COUNT
+How many individuals have been prescribed medication for hypertension?,COUNT
+What is the total number of patients who have undergone surgery for a ruptured disc?,COUNT
+Give the count of patients who have been diagnosed with stage 3 colon cancer.,COUNT
+How many people have been diagnosed with hepatitis C?,COUNT
+What is the number of patients who have undergone surgery for a torn rotator cuff and also have diabetes?,COUNT
+Give the count of patients who have been diagnosed with stage 2 bladder cancer.,COUNT
+How many individuals have been prescribed medication for arthritis?,COUNT
+What is the total number of patients who have undergone surgery for a broken collarbone?,COUNT
+Give the count of patients who have been diagnosed with stage 1 liver cancer.,COUNT
+How many people have been diagnosed with glomerulonephritis?,COUNT
+What is the number of patients who have undergone surgery for a perforated ulcer?,COUNT
+Give the count of patients who have been diagnosed with stage 4 pancreatic cancer.,COUNT
+How many individuals have been prescribed medication for hypothyroidism?,COUNT
+What is the total number of patients who have undergone surgery for a herniated cervical disc?,COUNT
+Give the count of patients who have been diagnosed with stage 3 ovarian cancer.,COUNT
+How many people have been diagnosed with esophageal cancer?,COUNT
+What is the number of patients who have undergone surgery for a torn labrum in their hip?,COUNT
+Give the count of patients who have been diagnosed with stage 2 melanoma.,COUNT
+How many individuals have been prescribed medication for chronic pain?,COUNT
+What is the total number of patients who have undergone surgery for a spinal cord tumor?,COUNT
+Give the count of patients who have been diagnosed with stage 1 pancreatic cancer.,COUNT
+How many people have been diagnosed with amyotrophic lateral sclerosis (ALS)?,COUNT
+What is the number of patients who have undergone surgery for a ruptured Achilles tendon?,COUNT
+Give the count of patients who have been diagnosed with stage 4 colon cancer.,COUNT
+How many individuals have been prescribed medication for osteoporosis?,COUNT
+What is the total number of patients who have undergone surgery for a broken femur?,COUNT
+Give the count of patients who have been diagnosed with stage 3 lung cancer.,COUNT
+How many people have been diagnosed with anorexia nervosa?,COUNT
+What is the number of patients who have undergone surgery for a torn meniscus and also have high blood pressure?,COUNT
+Give the count of patients who have been diagnosed with stage 2 liver cancer.,COUNT
+How many individuals have been prescribed medication for attention deficit disorder (ADD)?,COUNT
+Hw mnay ptienst hvae bene diaonsged wtih stgae 4 lun gcaenr?,COUNT
+Wat is teh totla nmuebr of idvdiinusla who hvae had a storke and also hvae hiogh cholseterol?,COUNT
+Give teh cno utof ptaetins who hvae ben daignosed wtih stae 3 brest cancer.,COUNT
+Hwo mnay poeple hvae ben diaogonsed wtih shcizphernia?,COUNT
+What is teh numebr of ptiaents who hvae udnregone sruergy for a ruptured spleen?,COUNT
+Giv ethe coutn of pateitns who hvae ben diaognsed wtih stgae 2 prostat ecancer.,COUNT
+Hwo mnay indviidulas hvae been pescirbed meciatoin for acne?,COUNT
+What is teh total numbre of pateitns who hvae udneregone sruergy for a brani tumor?,COUNT
+Giv ethe cno utof ptaetins who hvae ben diaognsed wtih stgae 1 cervial cancer.,COUNT
+Hwo mnay poeple hvae been diagnost with celiac dseiase?,COUNT
+Wat is teh numebr of ptiaents who hvae udnregone sruergy for a prforated appendix?,COUNT
+Gvei teh count of pateitns who hvae ben daignosed wtih stgae 4 ovraian cancer.,COUNT
+Hwo mnay indviidulas hvae been pescirbed meciatoin for hpyertinsion?,COUNT
+Wat is teh total numbre of pateitns who hvae udneregone sruergy for a ruptured dcis?,COUNT
+Give teh cno utof ptaetins who hvae ben diaognsed wtih stgae 3 colno cancer.,COUNT
+How many peoples have been diagnosed with type 1 diabetes in the last month?,COUNT
+What is the number of patients who have undergone surgery for a heart attack in the past year?,COUNT
+Give the count of patients who have been diagnos with stage 4 breast cancer.,COUNT
+How much peoples have been prescribed medication for high blood pressure?,COUNT
+What is the total number of individuals who have undergone surgery for a brain tumor in the last decade?,COUNT
+Give the number of patients who have been diagnos with stage 2 ovarian cancer.,COUNT
+How many peoples have been diagnosed with HIV in the last year?,COUNT
+What is the count of patients who have undergone surgery for a kidney transplant in the past five years?,COUNT
+Give the total number of individuals who have been diagnos with stage 3 lung cancer.,COUNT
+How much peoples have been prescribed medication for acid reflux in the past month?,COUNT
+What is the count of patients who have undergone surgery for a perforated colon in the last six months?,COUNT
+How many peoples have been diagnosed with stage 1 pancreatic cancer in the last year?,COUNT
+Give the number of patients who have been diagnos with stage 2 cervical cancer.,COUNT
+How much peoples have been prescribed medication for depression in the past year?,COUNT
+What is the total number of individuals who have undergone surgery for a ruptured appendix in the past decade?,COUNT
+Give the count of patients who have been diagnos with stage 3 prostate cancer.,COUNT
+How many peoples have been diagnosed with bipolar disorder in the past month?,COUNT
+What is the number of patients who have undergone surgery for a heart valve replacement in the past year?,COUNT
+Give the total number of individuals who have been diagnos with stage 4 liver cancer.,COUNT
+How much peoples have been prescribed medication for high cholesterol in the past year?,COUNT
+What is the count of patients who have undergone surgery for a herniated disc in the past six months?,COUNT
+Give the number of patients who have been diagnos with stage 1 colon cancer.,COUNT
+How many peoples have been diagnosed with asthma in the past month?,COUNT
+What is the total number of individuals who have undergone surgery for a stomach ulcer in the past decade?,COUNT
+Give the count of patients who have been diagnos with stage 2 lung cancer.,COUNT
+How much peoples have been prescribed medication for anxiety in the past year?,COUNT
+What is the number of patients who have undergone surgery for a bone fracture in the past year?,COUNT
+Give the total number of individuals who have been diagnos with stage 3 ovarian cancer.,COUNT
+How many peoples have been diagnosed with stage 2 prostate cancer in the past six months?,COUNT
+What is the count of patients who have undergone surgery for a gallbladder removal in the past year?,COUNT
+Give the number of patients who have been diagnos with stage 1 breast cancer.,COUNT
+How much peoples have been prescribed medication for diabetes in the past year?,COUNT
+What is the total number of individuals who have undergone surgery for a pancreatic tumor in the past decade?,COUNT
+Give the count of patients who have been diagnos with stage 4 colon cancer.,COUNT
+How many peoples have been diagnosed with arthritis in the past month?,COUNT
+What is the number of patients who have undergone surgery for a knee replacement in the past year?,COUNT
+Give the total number of individuals who have been diagnos with stage 2 liver cancer.,COUNT
+How much peoples have been prescribed medication for migraines in the past year?,COUNT
+What is the count of patients who have undergone surgery for a bladder tumor in the past six months?,COUNT
+How many pateints have been diagnosed with hypothyroidism in the past year?,COUNT
+Give the total numbre of idnviudals who have been prscribed medication for diabetes in the past six months.,COUNT
+What is the count of idnviudals who have been diagonsed with arthrits in the past year?,COUNT
+How mnay patients have been daignosed wtih colorectal cancer in the past five years?,COUNT
+Give the number of pateints who have been diagonsed wtih cataracts in the past year.,COUNT
+How many idnviudals have undergone surgrey for a heart attack in the past decade?,COUNT
+What is the cno ut of pateitns who have been diagonsed wtih chrnoic obstructive pulmonary disease in the past year?,COUNT
+How many pateints have been diagonsed wtih migraine in the past six months?,COUNT
+Give the total numbre of idnviudals who have been diagonsed wtih Alzheimers in the past decade.,COUNT
+What is the count of idnviudals who have been diagonsed wtih asthma in the past year?,COUNT
+How mnay pateints have been daignosed wtih rheumatoid arthrits in teh past year?,COUNT
+Give the number of idnviudals who hvae been prscribed mdiaciton for high cholseterol in teh past six months.,COUNT
+What is the cno ut of pateitns who hvae ben daignosed wtih lung cancer in teh past year?,COUNT
+How many pateints have been diagonsed wtih kidney stones in teh past six months?,COUNT
+Give the total numbre of idnviudals who hvae undergone surgrey for a gallbladder stone in teh past decade.,COUNT
+What is the count of pateitns who hvae ben daignosed wtih Parkinsons in teh past year?,COUNT
+How mnay idnviudals have been diagonsed wtih breast cancer in teh past year?,COUNT
+Give the number of pateints who hvae been prscribed mdiaciton for type 2 diabetes in teh past six months.,COUNT
+What is the total nmuber of idnviudals who hvae ben diagonsed wtih hypertension in teh past decade?,COUNT
+How many pateints have been diagonsed wtih osteoporosis in teh past year?,COUNT
+Give the cno ut of idnviudals who hvae undergone surgrey for a spinal cord injury in teh past decade.,COUNT
+How mnay pateints hvae ben daignosed wtih uterine fibroids in teh past year?,COUNT
+What is the total numbre of idnviudals who hvae ben diagonsed wtih pancreatic cancer in teh past decade?,COUNT
+Give the number of pateints who hvae been prscribed mdiaciton for bipolar disorder in teh past six months.,COUNT
+How many idnviudals have been diagonsed wtih melanoma in teh past year?,COUNT
+What is the cno ut of pateitns who hvae ben daignosed wtih Crohns disease in teh past year?,COUNT
+Give the total nmuber of idnviudals who hvae undergone surgrey for a brain tumor in teh past decade.,COUNT
+How mnay pateints have been diagonsed wtih endometriosis in teh past year?,COUNT
+Give the number of idnviudals who hvae been prscribed mdiaciton for anxiety in teh past six months.,COUNT
+What is the count of pateitns who hvae ben daignosed wtih epilepsy in teh past year?,COUNT
+How many idnviudals have been diagonsed wtih leukemia in teh past year?,COUNT
+Give the cno ut of pateitns who hvae ben daignosed wtih fibromyalgia in teh past year?,COUNT
+How mnay pateints have been diagonsed wtih multiple sclerosis in teh past year?,COUNT
+What is the total nmuber of idnviudals who hvae ben diagonsed wtih liver cancer in teh past decade?,COUNT
+Give the number of pateints who hvae been prscribed mdiaciton for depression in teh past six months.,COUNT
+How many idnviudals have been diagonsed wtih lymphoma in teh past year?,COUNT
+What is the count of pateitns who hvae ben daignosed wtih ulcerative colitis in teh past year?,COUNT
+How many patiens have been diagnosed with diabtes in the past month?,COUNT
+Give the number of people with high cholestrol who have suffered from a hert attack.,COUNT
+What percentage of patiets have been diagnosed with arthrits in the last six months?,COUNT
+How many people have been diagnosed with pneumnia in the past year?,COUNT
+Give the number of patients with cancrr who have undergone chemotherapy in the last six months.,COUNT
+How many people have been diagnosed with hepattis B in the past month?,COUNT
+What is the percentage of patients who have been diagnosed with tubercolosis in the last year?,COUNT
+Give the number of people with asthema who have been prescribed inhalers in the past six months.,COUNT
+How many patiets have been diagnosed with celiac diseas in the past year?,COUNT
+What percentage of people have been diagnosed with hyperthyroidism in the last six months?,COUNT
+How many patints have been diagnosed with parkinsons disease in the past year?,COUNT
+Give the number of people with schizophernia who have undergone psychotherapy in the last six months.,COUNT
+What is the percentage of patients who have been diagnosed with renal failue in the last year?,COUNT
+How many people have been diagnosed with demntia in the past month?,COUNT
+Give the number of patients with bronchits who have been prescribed antibiotics in the past six months.,COUNT
+How many people have been diagnosed with gout in the past year?,COUNT
+What is the percentage of patients who have been diagnosed with fibromialgia in the last six months?,COUNT
+Give the number of people with chronic obstructive pulmonary disese who have undergone lung function tests in the past month.,COUNT
+How many patiets have been diagnosed with gastritis in the past year?,COUNT
+What percentage of people have been diagnosed with hypoglycemnia in the last six months?,COUNT
+How many patiants have been diagnosed with neuropathy in the past year?,COUNT
+Give the number of people with hepatits C who have undergone antiviral treatment in the last six months.,COUNT
+What is the percentage of patients who have been diagnosed with endometrisosis in the last year?,COUNT
+How many people have been diagnosed with myocardial infarction in the past month?,COUNT
+Give the number of patients with sinusitis who have been prescribed nasal sprays in the past six months.,COUNT
+How many people have been diagnosed with osteoporosis in the past year?,COUNT
+What is the percentage of patients who have been diagnosed with ulcerative colitis in the last six months?,COUNT
+Give the number of people with migraine who have undergone neuroimaging tests in the past month.,COUNT
+How many patiets have been diagnosed with hypothyrodism in the past year?,COUNT
+What percentage of people have been diagnosed with psoriasis in the last six months?,COUNT
+What is the percentage of patients with diabetes who have also been diagnosed with hypertension?,PROBABILITY
+Give the percentage of people with obesity who have developed heart disease.,PROBABILITY
+What is the likelihood of a person with a family history of cancer to develop the same type of cancer?,PROBABILITY
+What percentage of smokers have developed lung cancer?,PROBABILITY
+Give the percentage of patients who have undergone surgery for gallstones and have developed complications.,PROBABILITY
+What is the likelihood of a person with a history of alcohol abuse to develop liver disease?,PROBABILITY
+What percentage of patients with depression have attempted suicide?,PROBABILITY
+Give the percentage of people with a history of asthma who have been diagnosed with chronic obstructive pulmonary disease (COPD).,PROBABILITY
+What is the likelihood of a person with a genetic predisposition to Alzheimer's disease to develop the condition?,PROBABILITY
+What percentage of patients with rheumatoid arthritis have developed osteoporosis?,PROBABILITY
+Give the percentage of people who have been diagnosed with sleep apnea and also have hypertension.,PROBABILITY
+What is the likelihood of a person with a history of skin cancer to develop another skin cancer?,PROBABILITY
+What percentage of patients with chronic kidney disease have developed anemia?,PROBABILITY
+Give the percentage of people with a family history of heart disease who have developed the condition.,PROBABILITY
+What is the likelihood of a person with a history of substance abuse to develop mental health disorders?,PROBABILITY
+What percentage of patients with multiple sclerosis have developed bladder problems?,PROBABILITY
+Give the percentage of people with a history of stroke who have developed dementia.,PROBABILITY
+What is the likelihood of a person with a history of breast cancer to develop ovarian cancer?,PROBABILITY
+What percentage of patients with a history of heart attack have developed heart failure?,PROBABILITY
+Give the percentage of people with a history of diabetes who have developed diabetic retinopathy.,PROBABILITY
+What is the likelihood of a person with a history of depression to develop anxiety disorders?,PROBABILITY
+What percentage of patients with chronic obstructive pulmonary disease have developed emphysema?,PROBABILITY
+Give the percentage of people with a history of kidney stones who have developed chronic kidney disease.,PROBABILITY
+What is the likelihood of a person with a history of autoimmune disease to develop other autoimmune disorders?,PROBABILITY
+What percentage of patients with a history of gastrointestinal bleeding have developed stomach ulcers?,PROBABILITY
+Give the percentage of people with a history of substance abuse who have developed liver disease.,PROBABILITY
+What is the likelihood of a person with a history of prostate cancer to develop bladder cancer?,PROBABILITY
+What percentage of patients with a history of stroke have developed atrial fibrillation?,PROBABILITY
+Give the percentage of people with a family history of diabetes who have developed the condition.,PROBABILITY
+What is the likelihood of a person with a history of thyroid cancer to develop other types of cancer?,PROBABILITY
+What percentage of patients with chronic kidney disease have developed high blood pressure?,PROBABILITY
+Give the percentage of people with a history of heart disease who have developed peripheral artery disease.,PROBABILITY
+What is the likelihood of a person with a history of migraines to develop other neurological disorders?,PROBABILITY
+What percentage of patients with a history of pneumonia have developed chronic bronchitis?,PROBABILITY
+Give the percentage of people with a history of substance abuse who have developed mental health disorders.,PROBABILITY
+What is the likelihood of a person with a family history of multiple sclerosis to develop the condition?,PROBABILITY
+What percentage of patients with a history of liver disease have developed cirrhosis?,PROBABILITY
+Give the percentage of people with a history of heart attack who have developed angina.,PROBABILITY
+What is the likelihood of a person with a history of skin cancer to develop melanoma?,PROBABILITY
+What percentage of patients with a history of tuberculosis have developed lung damage?,PROBABILITY
+What is the probability of a patient with high cholesterol levels developing heart disease?,PROBABILITY
+What is the probability of a male patient over 50 years of age developing prostate cancer?,PROBABILITY
+What is the probability of a patient with a family history of diabetes developing the disease?,PROBABILITY
+What is the probability of a female patient over 60 years of age developing breast cancer?,PROBABILITY
+What is the probability of a patient with a history of smoking developing lung cancer?,PROBABILITY
+What is the probability of a patient with a history of alcoholism developing liver disease?,PROBABILITY
+What is the probability of a patient with a history of drug abuse developing addiction?,PROBABILITY
+What is the probability of a patient with a high BMI developing type 2 diabetes?,PROBABILITY
+What is the probability of a patient with a sedentary lifestyle developing cardiovascular disease?,PROBABILITY
+What is the probability of a patient with a history of depression developing anxiety disorder?,PROBABILITY
+What is the probability of a patient with a history of migraines developing chronic headaches?,PROBABILITY
+What is the probability of a patient with a history of allergies developing asthma?,PROBABILITY
+What is the probability of a patient with a history of skin cancer developing melanoma?,PROBABILITY
+What is the probability of a patient with a history of heart disease developing stroke?,PROBABILITY
+What is the probability of a patient with a history of osteoporosis developing fractures?,PROBABILITY
+What is the probability of a patient with a family history of Alzheimer's disease developing the condition?,PROBABILITY
+What is the probability of a patient with a history of autoimmune disease developing another autoimmune condition?,PROBABILITY
+What is the probability of a patient with a history of thyroid disease developing hypothyroidism?,PROBABILITY
+What is the probability of a patient with a history of gastrointestinal problems developing inflammatory bowel disease?,PROBABILITY
+What is the probability of a patient with a history of kidney disease developing renal failure?,PROBABILITY
+What is the probability of a patient with a history of sleep apnea developing hypertension?,PROBABILITY
+What is the probability of a patient with a history of strokes developing dementia?,PROBABILITY
+What is the probability of a patient with a family history of breast cancer developing the disease?,PROBABILITY
+What is the probability of a patient with a history of arthritis developing rheumatoid arthritis?,PROBABILITY
+What is the probability of a patient with a history of migraines developing cluster headaches?,PROBABILITY
+What is the probability of a patient with a history of back pain developing sciatica?,PROBABILITY
+What is the probability of a patient with a history of high blood pressure developing heart disease?,PROBABILITY
+What is the probability of a patient with a history of depression developing bipolar disorder?,PROBABILITY
+What is the probability of a patient with a history of allergies developing eczema?,PROBABILITY
+What is the probability of a patient with a history of smoking developing emphysema?,PROBABILITY
+What is the probability of a patient with a history of alcoholism developing pancreatitis?,PROBABILITY
+What is the probability of a patient with a history of drug abuse developing depression?,PROBABILITY
+What is the probability of a patient with a high BMI developing heart disease?,PROBABILITY
+What is the probability of a patient with a sedentary lifestyle developing type 2 diabetes?,PROBABILITY
+What is the probability of a patient with a history of migraines developing tension headaches?,PROBABILITY
+What is the probability of a patient with a history of allergies developing hay fever?,PROBABILITY
+What is the probability of a patient with a history of skin cancer developing non-melanoma skin cancer?,PROBABILITY
+What is the probability of a patient with a history of heart disease developing heart failure?,PROBABILITY
+What is the probability of a patient with a history of osteoporosis developing bone fractures?,PROBABILITY
+What percentage of patients with diabetes are also diagnosed with hypertension?,PROBABILITY
+What is the probability of a patient with a family history of heart disease to develop it themselves?,PROBABILITY
+Give the percentage of patients over the age of 65 with osteoporosis.,PROBABILITY
+What is the likelihood of a patient with a history of smoking to develop lung cancer?,PROBABILITY
+What percentage of patients with high cholesterol also have a history of heart disease?,PROBABILITY
+Give the probability of a patient with obesity to develop type 2 diabetes.,PROBABILITY
+What percentage of patients with a history of alcohol abuse have liver damage?,PROBABILITY
+What is the likelihood of a patient with a low vitamin D level to develop osteoporosis?,PROBABILITY
+Give the percentage of patients with a genetic predisposition to breast cancer who develop it.,PROBABILITY
+What is the probability of a patient with a high BMI to develop sleep apnea?,PROBABILITY
+What percentage of patients with a history of depression develop anxiety?,PROBABILITY
+Give the likelihood of a patient with a family history of stroke to have one.,PROBABILITY
+What percentage of patients with a history of kidney stones develop them again?,PROBABILITY
+What is the probability of a patient with a high blood pressure to develop kidney disease?,PROBABILITY
+Give the percentage of patients with a history of asthma who also have allergies.,PROBABILITY
+What is the likelihood of a patient with a history of migraines to develop depression?,PROBABILITY
+What percentage of patients with a history of heart disease die from it?,PROBABILITY
+Give the probability of a patient with a sedentary lifestyle to develop obesity.,PROBABILITY
+What percentage of patients with a history of skin cancer develop another one?,PROBABILITY
+What is the likelihood of a patient with a family history of Alzheimer's disease to develop it themselves?,PROBABILITY
+Give the percentage of patients with a history of stroke who develop aphasia.,PROBABILITY
+What is the likelihood of a patient with a history of high blood sugar to develop diabetic retinopathy?,PROBABILITY
+What percentage of patients with a history of osteoarthritis require joint replacement surgery?,PROBABILITY
+Give the probability of a patient with a family history of colon cancer to develop it.,PROBABILITY
+What percentage of patients with a history of depression attempt suicide?,PROBABILITY
+What is the likelihood of a patient with a history of skin cancer to develop melanoma?,PROBABILITY
+Give the percentage of patients with a history of heart attack who develop heart failure.,PROBABILITY
+What is the probability of a patient with a family history of lung cancer to develop it themselves?,PROBABILITY
+What percentage of patients with a history of anxiety have panic attacks?,PROBABILITY
+Give the likelihood of a patient with a family history of diabetes to develop it.,PROBABILITY
+What percentage of patients with a history of pneumonia develop chronic obstructive pulmonary disease (COPD)?,PROBABILITY
+What is the probability of a patient with a history of smoking to develop emphysema?,PROBABILITY
+Give the percentage of patients with a history of breast cancer who develop lymphedema.,PROBABILITY
+What is the likelihood of a patient with a history of liver disease to develop liver cancer?,PROBABILITY
+What percentage of patients with a history of glaucoma develop blindness?,PROBABILITY
+Give the probability of a patient with a family history of ovarian cancer to develop it.,PROBABILITY
+What is the likelihood of a patient with a history of alcohol abuse to develop liver cirrhosis?,PROBABILITY
+What percentage of patients with a history of migraine have aura?,PROBABILITY
+Give the probability of a patient with a family history of heart disease to develop it.,PROBABILITY
+What percentage of patients with a history of kidney disease require dialysis?,PROBABILITY
+What is the likelihood of a patient with a history of allergies to develop asthma?,PROBABILITY
+Give the percentage of patients with a history of multiple sclerosis who develop disability.,PROBABILITY
+What is the probability of a patient with a family history of breast cancer to develop it themselves?,PROBABILITY
+What percentage of patients with a history of stroke have transient ischemic attacks (TIAs)?,PROBABILITY
+Give the likelihood of a patient with a history of heart attack to develop another one.,PROBABILITY
+What percentage of patients with a history of prostate cancer require surgery?,PROBABILITY
+What is the probability of a patient with a family history of pancreatic cancer to develop it?,PROBABILITY
+What percentage of patients with a history of epilepsy have seizures?,PROBABILITY
+Give the likelihood of a patient with a family history of osteoporosis to develop it.,PROBABILITY
+What percentage of patients with a history of depression develop bipolar disorder?,PROBABILITY
+What is the likelihood of a patient with a history of migraine to develop chronic migraine?,PROBABILITY
+Give the probability of a patient with a family history of dementia to develop it.,PROBABILITY
+What percentage of patients with a history of asthma require hospitalization?,PROBABILITY
+What is the likelihood of a patient with a history of lung cancer to develop metastasis?,PROBABILITY
+Give the percentage of patients with a history of heart disease who develop arrhythmia.,PROBABILITY
+What is the probability of a patient with a family history of kidney disease to develop it?,PROBABILITY
+What percentage of patients with a history of diabetes develop neuropathy?,PROBABILITY
+Give the likelihood of a patient with a family history of glaucoma to develop it.,PROBABILITY
+What percentage of patients with a history of rheumatoid arthritis require joint replacement surgery?,PROBABILITY
+What is the likelihood of a patient with a history of colon cancer to develop rectal cancer?,PROBABILITY
+Give the probability of a patient with a family history of skin cancer to develop it,PROBABILITY
+What percentage of patients over 60 years old have hypertension?,PROBABILITY
+What is the likelihood of developing diabetes after being diagnosed with prediabetes?,PROBABILITY
+Give the percentage of patients who have recovered from cancer after receiving chemotherapy.,PROBABILITY
+What is the probability of a patient with a family history of heart disease to develop the same condition?,PROBABILITY
+How many patients with obesity have successfully lost weight through diet and exercise?,PROBABILITY
+Give the percentage of patients with kidney disease who require dialysis.,PROBABILITY
+What is the probability of developing Alzheimer's disease in old age?,PROBABILITY
+How many patients with type 2 diabetes have achieved target blood sugar levels through medication?,PROBABILITY
+What percentage of patients with depression have reported improvement after psychotherapy?,PROBABILITY
+Give the likelihood of developing a heart attack for patients with high cholesterol.,PROBABILITY
+How many patients with asthma have successfully reduced their symptoms through inhalers?,PROBABILITY
+What percentage of patients with thyroid problems require surgery?,PROBABILITY
+Give the probability of developing osteoporosis after menopause.,PROBABILITY
+What is the likelihood of a patient with a history of smoking to develop lung cancer?,PROBABILITY
+How many patients with chronic pain have reported improvement after undergoing physical therapy?,PROBABILITY
+Give the percentage of patients with epilepsy who require multiple medications.,PROBABILITY
+What is the probability of developing a stroke for patients with atrial fibrillation?,PROBABILITY
+How many patients with chronic kidney disease have received a kidney transplant?,PROBABILITY
+Give the likelihood of developing skin cancer after prolonged sun exposure.,PROBABILITY
+What percentage of patients with rheumatoid arthritis require joint replacement surgery?,PROBABILITY
+How many patients with high blood pressure have achieved normal blood pressure levels through medication?,PROBABILITY
+Give the probability of developing a blood clot after a surgical procedure.,PROBABILITY
+What is the likelihood of developing depression after experiencing a traumatic event?,PROBABILITY
+How many patients with acid reflux have reported improvement after lifestyle changes?,PROBABILITY
+Give the percentage of patients with cataracts who require surgery.,PROBABILITY
+What is the probability of developing liver disease for patients who consume alcohol regularly?,PROBABILITY
+How many patients with irritable bowel syndrome have successfully managed their symptoms through diet?,PROBABILITY
+Give the likelihood of developing a urinary tract infection for female patients.,PROBABILITY
+What percentage of patients with multiple sclerosis require medication for symptom management?,PROBABILITY
+How many patients with glaucoma have undergone surgery for treatment?,PROBABILITY
+Give the probability of developing skin rashes after taking certain medications.,PROBABILITY
+What is the likelihood of developing arthritis after joint injury?,PROBABILITY
+How many patients with hearing loss have benefited from hearing aids?,PROBABILITY
+Give the percentage of patients with migraines who require preventive medication.,PROBABILITY
+What is the probability of developing sleep apnea for patients with obesity?,PROBABILITY
+How many patients with anxiety have reported improvement after cognitive behavioral therapy?,PROBABILITY
+Give the likelihood of developing macular degeneration after age 60.,PROBABILITY
+What percentage of patients with Parkinson's disease require surgery for symptom management?,PROBABILITY
+How many patients with psoriasis have reported improvement after using topical treatments?,PROBABILITY
+Give the probability of developing asthma for patients with a history of allergies.,PROBABILITY
+What is the likelihood of developing endometriosis for female patients with a family history of the condition?,PROBABILITY
+How many patients with migraines have benefited from alternative therapies such as acupuncture?,PROBABILITY
+Give the percentage of patients with chronic obstructive pulmonary disease who require oxygen therapy.,PROBABILITY
+What is the probability of developing gestational diabetes during pregnancy?,PROBABILITY
+How many patients with eczema have reported improvement after using moisturizers?,PROBABILITY
+Give the likelihood of developing leukemia after chemotherapy treatment for a different cancer.,PROBABILITY
+What percentage of patients with heart failure require heart transplant surgery?,PROBABILITY
+What is the probability of developing a secondary infection after being treated for pneumonia?,PROBABILITY
+How likely are patients with a family history of heart disease to develop the condition themselves?,PROBABILITY
+What is the percentage of people who have developed adverse reactions after taking a particular medication?,PROBABILITY
+What is the likelihood of patients with hypertension to develop kidney disease in the future?,PROBABILITY
+What is the probability of a diabetic patient to suffer from nerve damage?,PROBABILITY
+How many people are at risk of developing cancer due to their genetic makeup?,PROBABILITY
+What percentage of individuals with high cholesterol levels will suffer a heart attack?,PROBABILITY
+What is the likelihood of patients with a history of smoking to develop lung cancer?,PROBABILITY
+What is the probability of a person with a BMI over 30 to develop type 2 diabetes?,PROBABILITY
+How likely are patients with a history of alcohol abuse to develop liver disease?,PROBABILITY
+What is the percentage of people who have recovered from a heart attack and will experience a second one within a year?,PROBABILITY
+What is the likelihood of patients with a previous history of stroke to experience a recurrence?,PROBABILITY
+What is the probability of a person with a family history of asthma to develop the condition themselves?,PROBABILITY
+What percentage of people who have been diagnosed with depression will experience a relapse?,PROBABILITY
+How likely are patients with a history of substance abuse to relapse after treatment?,PROBABILITY
+What is the likelihood of a person with a history of anxiety to develop panic disorder?,PROBABILITY
+What is the probability of a person with a family history of Alzheimer's disease to develop the condition themselves?,PROBABILITY
+What percentage of patients with a history of heart disease will require a bypass surgery?,PROBABILITY
+How likely are patients with a history of migraines to develop chronic migraines?,PROBABILITY
+What is the probability of developing complications after a surgical procedure?,PROBABILITY
+What percentage of patients with a history of osteoporosis will suffer a fracture?,PROBABILITY
+How likely are patients with a history of arthritis to develop joint deformities?,PROBABILITY
+What is the probability of developing cataracts with increasing age?,PROBABILITY
+What percentage of people who have been diagnosed with ADHD will continue to have symptoms into adulthood?,PROBABILITY
+How likely are patients with a history of eczema to develop other skin conditions?,PROBABILITY
+What is the likelihood of a person with a family history of multiple sclerosis to develop the condition themselves?,PROBABILITY
+What is the probability of developing complications after a dental procedure?,PROBABILITY
+What percentage of patients with a history of depression will attempt suicide?,PROBABILITY
+How likely are patients with a history of traumatic brain injury to develop cognitive impairments?,PROBABILITY
+What is the probability of a person with a family history of Parkinson's disease to develop the condition themselves?,PROBABILITY
+What percentage of patients with a history of migraines will experience aura symptoms?,PROBABILITY
+How likely are patients with a history of asthma to require hospitalization?,PROBABILITY
+What is the probability of developing a blood clot after a long-haul flight?,PROBABILITY
+What percentage of people who have been diagnosed with glaucoma will experience vision loss?,PROBABILITY
+How likely are patients with a history of heart disease to require a heart transplant?,PROBABILITY
+What is the likelihood of a person with a family history of bipolar disorder to develop the condition themselves?,PROBABILITY
+What is the probability of a person with a history of smoking to develop emphysema?,PROBABILITY
+What percentage of patients with a history of migraines will experience nausea?,PROBABILITY
+How likely are patients with a history of asthma to experience asthma attacks during exercise?,PROBABILITY
+What is the probability of developing hearing loss with increasing age?,PROBABILITY
+What percentage of people who have been diagnosed with diabetes will develop complications in their feet?,PROBABILITY
+What is the probablility of people having hypetension and diabetes experiencing a heart attack in the next year?,PROBABILITY
+Give the percent of patients with high cholesterol who are at risk of stroke.,PROBABILITY
+How likely is a person with a family history of cancer to develop the disease?,PROBABILITY
+What is the percentage of women over 50 who have osteoporosis?,PROBABILITY
+What is the chance of a person with a low BMI to develop diabetes?,PROBABILITY
+Give the probability of a person with a history of smoking to get lung cancer.,PROBABILITY
+What is the likelihood of people with a sedentary lifestyle to develop heart disease?,PROBABILITY
+Give the percentage of people who suffer from anxiety and depression simultaneously.,PROBABILITY
+How probable is it for a person with a peanut allergy to have an anaphylactic reaction?,PROBABILITY
+What is the chance of a person with a history of alcohol abuse to develop liver cirrhosis?,PROBABILITY
+Give the percentage of patients with stage 4 cancer who survive for more than a year.,PROBABILITY
+What is the probability of a person with a vitamin D deficiency to develop osteomalacia?,PROBABILITY
+How likely is a person with a BMI over 30 to develop sleep apnea?,PROBABILITY
+Give the percent of people with a history of heart disease who suffer from hypertension.,PROBABILITY
+What is the likelihood of people with a history of migraines to develop depression?,PROBABILITY
+What is the chance of a person with a family history of diabetes to develop the disease?,PROBABILITY
+Give the probability of people with a sedentary lifestyle to develop type 2 diabetes.,PROBABILITY
+How probable is it for a person with a history of high blood pressure to have a stroke?,PROBABILITY
+What is the percentage of patients with severe asthma who require hospitalization?,PROBABILITY
+What is the likelihood of a person with a history of drug abuse to develop liver damage?,PROBABILITY
+Give the chance of a person with a history of smoking to develop COPD.,PROBABILITY
+How probable is it for a person with a BMI over 25 to develop high blood pressure?,PROBABILITY
+What is the percentage of people who suffer from depression and anxiety simultaneously?,PROBABILITY
+Give the probability of a person with a family history of heart disease to develop the condition.,PROBABILITY
+What is the likelihood of people with a history of migraines to develop chronic pain?,PROBABILITY
+How likely is a person with a history of heavy alcohol consumption to develop pancreatitis?,PROBABILITY
+What is the chance of a person with a sedentary lifestyle to develop arthritis?,PROBABILITY
+Give the percent of people with a family history of breast cancer who develop the disease.,PROBABILITY
+What is the probability of a person with a history of drug abuse to develop HIV?,PROBABILITY
+How probable is it for a person with a low BMI to develop an eating disorder?,PROBABILITY
+What is the percentage of patients with diabetes who require insulin treatment?,PROBABILITY
+Give the likelihood of a person with a history of smoking to develop emphysema.,PROBABILITY
+What is the chance of a person with a history of heavy alcohol consumption to develop liver cancer?,PROBABILITY
+How likely is a person with a family history of Alzheimer's to develop the disease?,PROBABILITY
+What is the probability of people with a sedentary lifestyle to develop obesity?,PROBABILITY
+Give the percentage of people with a history of heart disease who develop heart failure.,PROBABILITY
+What is the likelihood of people with a history of migraines to develop anxiety?,PROBABILITY
+How probable is it for a person with a family history of cancer to develop the disease at a young age?,PROBABILITY
+What is the chance of a person with a history of smoking to develop bladder cancer?,PROBABILITY
+Give the probability of people with a sedentary lifestyle to develop back pain,PROBABILITY
+How mani male patient had strok in last year?,PROBABILITY
+What is the precentag of females with hypertnsion to develop strock?,PROBABILITY
+Giv the probablity of a patiant havng a strok if they have diabitis and high blood preasure.,PROBABILITY
+What is the chanc of a person with heart diseases havng a strok in next 5 year?,PROBABILITY
+How many peple hav die of diabetis-relatd strok in last decad?,PROBABILITY
+What is the numbr of patients with hyper tension who hav developd strok in past year?,PROBABILITY
+Give the rate of survial of patints who have had a strok in last 6 months?,PROBABILITY
+What is the chanc of a person with smokng habit to hav a strok?,PROBABILITY
+How many peple hav been diagnosd with hypotension in the past year?,PROBABILITY
+What is the probablity of a person to hav a strok if they have a family history of strok?,PROBABILITY
+Giv the precentage of patients who have had a strok and also hav cancer.,PROBABILITY
+How many peple hav had a transient ischemic attack in past year?,PROBABILITY
+What is the liklihood of a patiant with diabete to have a strok?,PROBABILITY
+Give the numbr of female patients with diabets who have sufferd from a strok.,PROBABILITY
+How many peple with heart diseases have had a strok in last decade?,PROBABILITY
+What is the probablity of a patiant with high blood presure to develop strok in next 5 year?,PROBABILITY
+Giv the number of people with diabetes and hypertnsion who have sufferd from a strok.,PROBABILITY
+How mani male patiants with diabets have had a strok in past year?,PROBABILITY
+What is the rate of recovry of patints after a strok in the age group of 50 to 60?,PROBABILITY
+How many peple with high blood presure hav died due to strok in past decad?,PROBABILITY
+What is the probablity of a patiant with kidney diseases to hav a strok?,PROBABILITY
+Giv the percentage of male patients with hypertnsion who have sufferd from a strok.,PROBABILITY
+How many peple hav been diagnosd with diabete in the past year?,PROBABILITY
+What is the chanc of a patiant with obesity to develop a strok?,PROBABILITY
+How many peple hav had a hemoragic strok in past year?,PROBABILITY
+What is the numbr of patients with high cholesterl who have had a strok in last decade?,PROBABILITY
+Giv the precentage of female patients who have had a strok and also hav kidney diseases.,PROBABILITY
+What is the likelihood of a patiant with diabete and obesity to develop a strok?,PROBABILITY
+How many peple with heart diseases hav died due to strok in last decade?,PROBABILITY
+What is the rate of reoccurance of strok in patients who have had a strok in the past year?,PROBABILITY
+Is there a correlation between cholesterol levels and heart disease?,CORRELATION
+How does smoking correlate with the risk of lung cancer?,CORRELATION
+What is the correlation between BMI and type 2 diabetes?,CORRELATION
+Is there a correlation between alcohol consumption and liver disease?,CORRELATION
+How are family history and breast cancer correlated?,CORRELATION
+What is the correlation between physical activity and cardiovascular health?,CORRELATION
+How does air pollution correlate with respiratory diseases?,CORRELATION
+Is there a correlation between sleep duration and obesity?,CORRELATION
+What is the correlation between education level and mental health?,CORRELATION
+How are stress and heart disease correlated?,CORRELATION
+Is there a correlation between vitamin D levels and bone health?,CORRELATION
+How does socioeconomic status correlate with access to healthcare?,CORRELATION
+What is the correlation between screen time and childhood obesity?,CORRELATION
+How are job satisfaction and mental health correlated?,CORRELATION
+Is there a correlation between income and life expectancy?,CORRELATION
+What is the correlation between sodium intake and high blood pressure?,CORRELATION
+How does caffeine intake correlate with sleep quality?,CORRELATION
+Is there a correlation between genetics and risk of developing cancer?,CORRELATION
+What is the correlation between air quality and allergies?,CORRELATION
+How are education level and income correlated?,CORRELATION
+Is there a correlation between social media use and mental health?,CORRELATION
+What is the correlation between sugar intake and dental health?,CORRELATION
+How does alcohol consumption correlate with the risk of developing liver cirrhosis?,CORRELATION
+Is there a correlation between indoor air quality and respiratory health?,CORRELATION
+What is the correlation between vitamin C intake and immunity?,CORRELATION
+How are obesity and joint pain correlated?,CORRELATION
+Is there a correlation between job stress and heart disease?,CORRELATION
+What is the correlation between exercise and mental health?,CORRELATION
+How does exposure to lead correlate with developmental delays in children?,CORRELATION
+Is there a correlation between pollution and asthma?,CORRELATION
+What is the correlation between education level and job satisfaction?,CORRELATION
+How are socioeconomic status and access to healthy food correlated?,CORRELATION
+Is there a correlation between alcohol consumption and risk of depression?,CORRELATION
+What is the correlation between smoking and risk of stroke?,CORRELATION
+How does age correlate with memory loss?,CORRELATION
+Is there a correlation between pollution and heart disease?,CORRELATION
+What is the correlation between outdoor temperature and heat stroke?,CORRELATION
+How are blood pressure and kidney function correlated?,CORRELATION
+Is there a correlation between stress and gut health?,CORRELATION
+What is the correlation between air quality and lung cancer?,CORRELATION
+How does exercise correlate with bone density?,CORRELATION
+Is there a correlation between pollution and premature birth?,CORRELATION
+What is the correlation between income and access to healthcare?,CORRELATION
+How are genetics and risk of heart disease correlated?,CORRELATION
+Is there a correlation between sugar intake and risk of developing diabetes?,CORRELATION
+What is the correlation between education level and income?,CORRELATION
+How does air pollution correlate with the risk of developing dementia?,CORRELATION
+Is there a correlation between social isolation and depression?,CORRELATION
+What is the correlation between sleep quality and mental health?,CORRELATION
+How are stress and immune system function correlated?,CORRELATION
+Is there a correlation between exercise and risk of developing arthritis?,CORRELATION
+What is the correlation between nutrition and brain health?,CORRELATION
+How does exposure to pesticides correlate with risk of developing cancer?,CORRELATION
+Is there a correlation between air quality and risk of developing allergies?,CORRELATION
+What is the correlation between socioeconomic status and mental health?,CORRELATION
+How are BMI and risk of developing heart disease correlated?,CORRELATION
+Is there a correlation between alcohol consumption and risk of developing breast cancer?,CORRELATION
+What is the correlation between education level and access to healthy food?,CORRELATION
+How does air quality correlate with respiratory infections?,CORRELATION
+Is there a relationship between BMI and heart disease?,CORRELATION
+What is the correlation between smoking and lung cancer?,CORRELATION
+How is cholesterol level correlated with the risk of heart attack?,CORRELATION
+What is the relationship between alcohol consumption and liver disease?,CORRELATION
+Is there a correlation between physical activity and depression?,CORRELATION
+How is sugar intake correlated with the risk of diabetes?,CORRELATION
+What is the correlation between air pollution and respiratory diseases?,CORRELATION
+Is there a relationship between stress and hypertension?,CORRELATION
+How is education level correlated with income?,CORRELATION
+What is the correlation between sleep duration and obesity?,CORRELATION
+Is there a relationship between social media usage and depression?,CORRELATION
+How is income level correlated with access to healthcare?,CORRELATION
+What is the correlation between temperature and the spread of infectious diseases?,CORRELATION
+Is there a relationship between family history and the risk of cancer?,CORRELATION
+How is caffeine intake correlated with sleep quality?,CORRELATION
+What is the correlation between blood pressure and kidney disease?,CORRELATION
+Is there a relationship between vitamin D deficiency and bone health?,CORRELATION
+How is income inequality correlated with crime rates?,CORRELATION
+What is the correlation between exercise frequency and longevity?,CORRELATION
+Is there a correlation between the use of hormonal contraceptives and breast cancer risk?,CORRELATION
+How is water consumption correlated with hydration levels?,CORRELATION
+What is the relationship between air quality and allergies?,CORRELATION
+Is there a correlation between noise pollution and hearing loss?,CORRELATION
+How is exposure to UV rays correlated with the risk of skin cancer?,CORRELATION
+What is the correlation between height and weight?,CORRELATION
+Is there a relationship between pet ownership and mental health?,CORRELATION
+How is proximity to green spaces correlated with mental health?,CORRELATION
+What is the correlation between gender and income level?,CORRELATION
+Is there a relationship between personality traits and job satisfaction?,CORRELATION
+How is exposure to blue light from electronic devices correlated with sleep disturbances?,CORRELATION
+What is the correlation between distance from the equator and skin cancer rates?,CORRELATION
+Is there a relationship between IQ and academic achievement?,CORRELATION
+How is air quality correlated with the prevalence of asthma?,CORRELATION
+What is the correlation between physical attractiveness and success in dating?,CORRELATION
+Is there a relationship between ethnicity and health outcomes?,CORRELATION
+How is exposure to lead correlated with cognitive development in children?,CORRELATION
+What is the correlation between smoking and wrinkles?,CORRELATION
+Is there a relationship between education level and political beliefs?,CORRELATION
+How is exposure to secondhand smoke correlated with lung cancer risk?,CORRELATION
+Is there a correlation between smoking and lung cancer?,CORRELATION
+How are BMI and heart disease related?,CORRELATION
+Is there a relationship between cholesterol levels and atherosclerosis?,CORRELATION
+What is the correlation between alcohol consumption and liver damage?,CORRELATION
+How are genetics and Alzheimer's disease related?,CORRELATION
+Is there a correlation between physical activity and depression?,CORRELATION
+How are stress and cardiovascular disease related?,CORRELATION
+What is the relationship between sleep disorders and obesity?,CORRELATION
+Is there a correlation between air pollution and respiratory illness?,CORRELATION
+How are socioeconomic status and diabetes related?,CORRELATION
+What is the correlation between sedentary lifestyle and metabolic syndrome?,CORRELATION
+Is there a relationship between nutrition and osteoporosis?,CORRELATION
+How are environmental toxins and cancer related?,CORRELATION
+What is the correlation between maternal health and infant mortality?,CORRELATION
+Is there a correlation between obesity and infertility?,CORRELATION
+How are socioeconomic factors and access to healthcare related?,CORRELATION
+What is the correlation between alcohol consumption and breast cancer?,CORRELATION
+Is there a relationship between genetics and heart disease?,CORRELATION
+How are diet and inflammatory bowel disease related?,CORRELATION
+What is the correlation between physical activity and cognitive function?,CORRELATION
+Is there a correlation between air pollution and cardiovascular disease?,CORRELATION
+How are genetics and prostate cancer related?,CORRELATION
+What is the relationship between sleep disorders and hypertension?,CORRELATION
+Is there a correlation between sedentary lifestyle and back pain?,CORRELATION
+How are socioeconomic factors and mental health related?,CORRELATION
+What is the correlation between alcohol consumption and liver cancer?,CORRELATION
+Is there a relationship between genetics and autoimmune disorders?,CORRELATION
+How are diet and colon cancer related?,CORRELATION
+What is the correlation between physical activity and osteoporosis?,CORRELATION
+Is there a correlation between air pollution and dementia?,CORRELATION
+How are genetics and Parkinson's disease related?,CORRELATION
+What is the relationship between sleep disorders and diabetes?,CORRELATION
+Is there a correlation between sedentary lifestyle and depression?,CORRELATION
+How are socioeconomic factors and obesity related?,CORRELATION
+What is the correlation between alcohol consumption and pancreatitis?,CORRELATION
+Is there a relationship between genetics and asthma?,CORRELATION
+How are diet and rheumatoid arthritis related?,CORRELATION
+What is the correlation between physical activity and multiple sclerosis?,CORRELATION
+Is there a correlation between air pollution and stroke?,CORRELATION
+How are genetics and skin cancer related?,CORRELATION
+What is the relationship between sleep disorders and stroke?,CORRELATION
+Is there a correlation between sedentary lifestyle and type 2 diabetes?,CORRELATION
+How are socioeconomic factors and cancer related?,CORRELATION
+What is the correlation between alcohol consumption and oral cancer?,CORRELATION
+Is there a relationship between genetics and Huntington's disease?,CORRELATION
+How are diet and kidney disease related?,CORRELATION
+What is the correlation between physical activity and depression in cancer patients?,CORRELATION
+Is there a correlation between air pollution and lung disease?,CORRELATION
+How are genetics and breast cancer related?,CORRELATION
+What is the relationship between sleep disorders and cardiovascular disease?,CORRELATION
+What is the correlationship between obesity and high blood pressure?,CORRELATION
+How does BMI impact the chance of heart disease?,CORRELATION
+Is there any correlation between smoking and lung cancer?,CORRELATION
+Can you tell me the relationship between alcohol consumption and liver disease?,CORRELATION
+What is the correlation of age and depression?,CORRELATION
+Is there a link between stress and anxiety?,CORRELATION
+How are physical activity and heart health related?,CORRELATION
+Can you tell me the correlationship between vitamin D deficiency and osteoporosis?,CORRELATION
+How does sleep apnea relate to high blood pressure?,CORRELATION
+What is the correlation of cholesterol levels and heart attack risk?,CORRELATION
+Is there any correlation between genetics and autoimmune diseases?,CORRELATION
+How are mental health and chronic pain related?,CORRELATION
+Can you tell me the correlation of salt intake and kidney function?,CORRELATION
+What is the correlationship between air pollution and respiratory diseases?,CORRELATION
+How does diet affect the risk of diabetes?,CORRELATION
+Is there a correlation between age and hearing loss?,CORRELATION
+How are socioeconomic status and mental health related?,CORRELATION
+Can you tell me the correlation of vitamin C intake and immune system function?,CORRELATION
+What is the correlationship between physical activity and osteoarthritis?,CORRELATION
+How does obesity relate to cancer risk?,CORRELATION
+Is there a correlation between gut health and autoimmune diseases?,CORRELATION
+How are sleep patterns and mood disorders related?,CORRELATION
+Can you tell me the correlation of environmental toxins and neurological diseases?,CORRELATION
+What is the correlationship between medication adherence and disease management?,CORRELATION
+How does air quality affect cardiovascular health?,CORRELATION
+Is there any correlation between alcohol intake and breast cancer risk?,CORRELATION
+How are genetics and mental health related?,CORRELATION
+Can you tell me the correlation of sun exposure and skin cancer?,CORRELATION
+What is the correlationship between diet and inflammatory bowel disease?,CORRELATION
+How does pollution relate to allergies?,CORRELATION
+Is there a correlation between age and Alzheimer's disease?,CORRELATION
+How are social support and mental health related?,CORRELATION
+Can you tell me the correlation of exercise and bone density?,CORRELATION
+What is the correlationship between smoking and pancreatic cancer?,CORRELATION
+How does stress affect the immune system?,CORRELATION
+Is there any correlation between obesity and arthritis?,CORRELATION
+How are genetics and heart disease related?,CORRELATION
+Can you tell me the correlation of vitamin D and multiple sclerosis?,CORRELATION
+What is the correlationship between pollution and respiratory infections?,CORRELATION
+How does diet relate to cognitive function?,CORRELATION
+Is there a correlation between gut health and mental health?,CORRELATION
+How are sleep patterns and heart health related?,CORRELATION
+Can you tell me the correlation of medication side effects and patient outcomes?,CORRELATION
+What is the correlationship between socioeconomic status and cancer risk?,CORRELATION
+How does air pollution affect fetal development?,CORRELATION
+Is there any correlation between genetics and cancer risk?,CORRELATION
+How are lifestyle factors and autoimmune diseases related?,CORRELATION
+Can you tell me the correlation of exercise and mental health?,CORRELATION
+What is the correlationship between vitamin D and bone health?,CORRELATION
+How does stress relate to cardiovascular disease?,CORRELATION
+Is there a correlation between alcohol consumption and liver cancer?,CORRELATION
+How are genetics and diabetes related?,CORRELATION
+Can you tell me the correlation of environmental factors and autism?,CORRELATION
+What is the correlationship between diet and inflammatory arthritis?,CORRELATION
+How does pollution affect respiratory function?,CORRELATION
+Is there a correlation between age and Parkinson's disease?,CORRELATION
+How are social support and cancer outcomes related?,CORRELATION
+Can you tell me the correlation of physical activity and cognitive decline?,CORRELATION
+What is the correlationship between smoking and oral cancer?,CORRELATION
+What is the correlashion between cholestrol and hearth disease?,CORRELATION
+Are there any correlashions between lung cancr and smokin?,CORRELATION
+How are blood pressre and heart attck related?,CORRELATION
+Is there a correlatian between obesity and diabetis?,CORRELATION
+What is the correlathion between alcohil consumption and liver damag?,CORRELATION
+How are kidney diseese and high blood presure correlated?,CORRELATION
+What is the correlashun between vitamin D and bone denisity?,CORRELATION
+Are there any correlashion between heart faliure and chrohns diseas?,CORRELATION
+How are stroke and high chlorestrol connected?,CORRELATION
+Is there a correlashun between mental health and obesity?,CORRELATION
+What is the correlatian between smokin and lung funcion?,CORRELATION
+Are there any correlashion between sugar intake and diabets?,CORRELATION
+How are heart disease and gender related?,CORRELATION
+What is the correlathion between obesity and sleep apnea?,CORRELATION
+Is there a correlashun between diet and cancer?,CORRELATION
+How are hypertension and stroke related?,CORRELATION
+What is the correlashon between age and Alzheimer's disease?,CORRELATION
+Are there any correlasion between exercise and heart health?,CORRELATION
+How are mental health and heart disease connected?,CORRELATION
+What is the correlathion between diabetes and kidney function?,CORRELATION
+Is there a correlashun between salt intake and high blood pressure?,CORRELATION
+How are cholesterol and heart attack related?,CORRELATION
+What is the correlathion between obesity and liver disease?,CORRELATION
+Are there any correlashion between diet and mental health?,CORRELATION
+How are genetics and cancer related?,CORRELATION
+What is the correlathion between smoking and oral cancer?,CORRELATION
+Is there a correlashun between alcohol and pancreatitis?,CORRELATION
+How are sleep patterns and heart health connected?,CORRELATION
+What is the correlathion between depression and heart disease?,CORRELATION
+Are there any correlashion between sugar and obesity?,CORRELATION
+How are high blood pressure and kidney disease related?,CORRELATION
+What is the correlathion between diet and diabetes?,CORRELATION
+Is there a correlashun between asthma and allergies?,CORRELATION
+How are obesity and joint pain connected?,CORRELATION
+What is the correlathion between smoking and emphysema?,CORRELATION
+Are there any correlashion between physical activity and mental health?,CORRELATION
+How are diet and cancer related?,CORRELATION
+What is the correlathion between hypertension and heart attack?,CORRELATION
+Is there a correlashun between age and diabetes?,CORRELATION
+How are smoking and lung cancer connected?,CORRELATION
+What is the correlathion between obesity and heart disease?,CORRELATION
+Are there any correlashion between exercise and obesity?,CORRELATION
+How are mental health and diabetes related?,CORRELATION
+What is the correlathion between alcohol and liver damage?,CORRELATION
+Is there a correlashun between sleep apnea and heart disease?,CORRELATION
+How are high blood pressure and stroke connected?,CORRELATION
+What is the correlathion between diet and heart health?,CORRELATION
+Are there any correlashion between smoking and gum disease?,CORRELATION
+How are kidney disease and diabetes related?,CORRELATION
+What is the correlathion between obesity and arthritis?,CORRELATION
+Is there a correlashun between genetics and heart disease?,CORRELATION
+How are age and cancer connected?,CORRELATION
+What is the correlathion between mental health and kidney function?,CORRELATION
+Are there any correlashion between salt and hypertension?,CORRELATION
+How are smoking and heart disease related?,CORRELATION
+What is the correlathion between alcohol and oral cancer?,CORRELATION
+Is there a correlashun between obesity and sleep disorders?,CORRELATION
+What is the correlashion between blood sugre levels and eye site?,CORRELATION
+How does exercize relate to the development of high cholestrol?,CORRELATION
+What's the correlashun between body mass index and heart diesease?,CORRELATION
+How does alcchol consumpshun affect liver funshun?,CORRELATION
+What's the correlashion between smoking and lung canger?,CORRELATION
+How is genetic makeup related to predisposition to certain types of cancer?,CORRELATION
+How are stress and anxiety related to high blood pressure?,CORRELATION
+What is the correlation between age and the onset of arthritis?,CORRELATION
+How do environmental factors like pollution impact asthma?,CORRELATION
+What is the correlation between nutrition and the development of diabetes?,CORRELATION
+How is the amount of sleep a person gets related to their mental health?,CORRELATION
+What's the relationship between physical activity and the risk of stroke?,CORRELATION
+How does medication adherence affect the management of chronic conditions?,CORRELATION
+What is the correlation between vitamin D levels and bone health?,CORRELATION
+How are socioeconomic factors related to access to healthcare?,CORRELATION
+How does air quality relate to respiratory illnesses like bronchitis?,CORRELATION
+What is the correlation between sun exposure and skin cancer?,CORRELATION
+How does lack of exercise correlate with obesity?,CORRELATION
+What is the relationship between dental hygiene and heart disease?,CORRELATION
+How is stress related to irritable bowel syndrome?,CORRELATION
+What's the correlation between vaccination rates and the prevalence of infectious diseases?,CORRELATION
+How does the use of electronic devices impact sleep quality?,CORRELATION
+What is the relationship between alcohol consumption and liver disease?,CORRELATION
+How is air pollution related to asthma attacks?,CORRELATION
+What's the correlation between obesity and infertility?,CORRELATION
+How do certain medications impact mental health?,CORRELATION
+What is the correlation between age and the likelihood of developing Alzheimer's disease?,CORRELATION
+How does the quality of diet affect overall health?,CORRELATION
+What's the relationship between poor dental hygiene and respiratory infections?,CORRELATION
+How is lack of physical activity related to osteoporosis?,CORRELATION
+What is the correlation between sugar intake and the risk of heart disease?,CORRELATION
+How does air pollution correlate with the development of lung cancer?,CORRELATION
+How are socioeconomic factors related to mental health outcomes?,CORRELATION
+What's the correlation between vaccination rates and the incidence of infectious diseases?,CORRELATION
+How does the use of antibiotics impact gut health?,CORRELATION
+What is the relationship between air pollution and heart disease?,CORRELATION
+How are genetics and lifestyle factors related to the development of obesity?,CORRELATION
+What is the correlation between sleep apnea and heart disease?,CORRELATION
+How does poor diet relate to the development of type 2 diabetes?,CORRELATION
+What's the relationship between lack of physical activity and the risk of heart attack?,CORRELATION
+How is the amount of screen time related to the development of myopia?,CORRELATION
+What is the correlation between hypertension and kidney disease?,CORRELATION
+How does smoking correlate with periodontal disease?,CORRELATION
+How are environmental factors related to the development of skin cancer?,CORRELATION
+What's the correlation between alcohol consumption and breast cancer?,CORRELATION
+How is the use of certain medications related to the development of gastrointestinal issues?,CORRELATION
+What is the relationship between exposure to pesticides and the risk of cancer?,CORRELATION
+How does lack of physical activity relate to the development of osteoarthritis?,CORRELATION
+What's the correlation between socioeconomic status and the prevalence of chronic conditions?,CORRELATION
+How is stress related to the development of autoimmune diseases?,CORRELATION
+How many people have had a stroke or hypertension at some point in their life?,COUNT
+Give the number of patients with high blood pressure or diabetes who have visited the clinic in the last month.,COUNT
+What is the count of individuals who were diagnosed with both diabetes and hypertension within a year?,COUNT
+How many patients have been prescribed medication for depression and anxiety?,COUNT
+Give the number of people who have been diagnosed with cancer and received chemotherapy in the past year.,COUNT
+What is the total number of patients who have undergone surgery for both knee and hip replacement?,COUNT
+How many individuals have been treated for both a heart attack and a stroke in the last six months?,COUNT
+Give the count of patients who have been prescribed antibiotics for respiratory infections in the last year.,COUNT
+What is the number of patients with a history of asthma or allergies who have been hospitalized in the past year?,COUNT
+How many patients have undergone both an MRI and CT scan within the last month?,COUNT
+How many patients are not suffering from any disease?,COUNT
+How many doctors treated the patient?,COUNT
+How many appointments did the patient miss last year?,COUNT
+How many surgeries were successful?,COUNT
+How many patients were admitted to the hospital on a weekend?,COUNT
+How many medications were prescribed to the patient by the doctor?,COUNT
+How many times did the patient visit the hospital for the same issue?,COUNT
+How many patients received alternative treatments?,COUNT
+How many patients underwent major surgeries?,COUNT
+How many patients were diagnosed with multiple diseases?,COUNT
+How many healthcare providers attended the patient?,COUNT
+How many patients were referred to a specialist?,COUNT
+How many patients have a family history of the disease?,COUNT
+How many patients were discharged against medical advice?,COUNT
+How many patients showed improvement in their condition after the treatment?,COUNT
+How many patients had adverse reactions to their medications?,COUNT
+How many patients received palliative care?,COUNT
+How many patients experienced a relapse after treatment?,COUNT
+How many patients received follow-up care after their hospital discharge?,COUNT
+How many patients had abnormal laboratory test results?,COUNT
+What is the likelihood of developing diabetes after a heart attack?,PROBABILITY
+Give the percentage of patients who experience a recurrence of cancer after completing treatment.,PROBABILITY
+What percentage of people with hypertension have a family history of heart disease?,PROBABILITY
+How many individuals with asthma develop chronic obstructive pulmonary disease (COPD) over time?,PROBABILITY
+Give the probability of developing depression after experiencing a traumatic event.,PROBABILITY
+What is the likelihood of a person with a genetic predisposition to Alzheimer's disease developing the condition?,PROBABILITY
+Give the percentage of patients with HIV who develop AIDS within five years of diagnosis.,PROBABILITY
+What percentage of women with breast cancer carry the BRCA1 gene mutation?,PROBABILITY
+How many individuals with a history of substance abuse develop liver disease over time?,PROBABILITY
+Give the probability of developing complications after undergoing surgery for obesity.,PROBABILITY
+What percentage of patients with a traumatic brain injury develop epilepsy later in life?,PROBABILITY
+How many people with chronic pain experience depression as a comorbidity?,PROBABILITY
+Give the likelihood of developing a urinary tract infection (UTI) after undergoing catheterization.,PROBABILITY
+What percentage of patients with psoriasis develop psoriatic arthritis?,PROBABILITY
+How many individuals with a family history of colorectal cancer develop the disease themselves?,PROBABILITY
+Give the probability of developing heart disease after experiencing a severe case of the flu.,PROBABILITY
+What is the likelihood of a person with a history of smoking developing lung cancer?,PROBABILITY
+Give the percentage of individuals with a vitamin D deficiency who develop osteoporosis.,PROBABILITY
+How many patients with a history of strokes develop cognitive impairment over time?,PROBABILITY
+Give the probability of developing post-traumatic stress disorder (PTSD) after surviving a natural disaster.,PROBABILITY
+How many people are likely to develop hypertension in the next year?,PROBABILITY
+What is the possibility of a patient having both diabetes and heart disease?,PROBABILITY
+Give the likelihood of a female patient having a stroke in the next five years.,PROBABILITY
+What is the chance of developing thyroid problems due to obesity?,PROBABILITY
+What percentage of patients with asthma also have allergies?,PROBABILITY
+How common is it for patients with chronic pain to develop depression?,PROBABILITY
+Give the probability of a patient recovering from a severe infection with proper treatment.,PROBABILITY
+What is the likelihood of a patient with a family history of cancer developing the disease themselves?,PROBABILITY
+How often do patients with high cholesterol develop heart disease?,PROBABILITY
+What is the probability of developing complications from a surgical procedure?,PROBABILITY
+How many patients are expected to develop Alzheimer's disease in the next decade?,PROBABILITY
+What is the chance of a patient developing complications from a medication?,PROBABILITY
+Give the percentage of patients with a history of smoking who develop lung cancer.,PROBABILITY
+How likely is it for a patient with a concussion to develop long-term neurological issues?,PROBABILITY
+What is the likelihood of a patient with rheumatoid arthritis developing heart disease?,PROBABILITY
+How common is it for patients with irritable bowel syndrome to also have anxiety?,PROBABILITY
+Give the probability of a patient experiencing a relapse of their condition.,PROBABILITY
+What percentage of patients with type 2 diabetes also have high blood pressure?,PROBABILITY
+How likely is it for a patient with a history of alcohol abuse to develop liver disease?,PROBABILITY
+What is the chance of a patient developing an allergic reaction to a medication?,PROBABILITY
+Is there a correlation between the amount of exercise a person gets and their likelihood of developing heart disease?,CORRELATION
+What is the correlation between smoking and the development of lung cancer in women?,CORRELATION
+How does a person's body mass index (BMI) correlate with their risk of developing type 2 diabetes?,CORRELATION
+Is there a correlation between the level of air pollution in a city and the prevalence of respiratory illnesses among its residents?,CORRELATION
+What is the correlation between a person's sleep habits and their risk of developing depression?,CORRELATION
+How does the level of stress a person experiences correlate with their likelihood of developing heart disease?,CORRELATION
+Is there a correlation between a person's level of education and their likelihood of developing dementia?,CORRELATION
+What is the correlation between a person's diet and their risk of developing colon cancer?,CORRELATION
+How does a person's alcohol consumption correlate with their likelihood of developing liver disease?,CORRELATION
+Is there a correlation between a person's socioeconomic status and their risk of developing cardiovascular disease?,CORRELATION
