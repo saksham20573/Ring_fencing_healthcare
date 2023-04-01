@@ -1,4 +1,4 @@
-# Secured Collaboration Through Data Ring Fencing
+# Multi-Party Data Privacy with Data Ring Fencing
 
 ## Instructions to run the code
 We advise that the code be run on google colab in order to avoid dependency issues
